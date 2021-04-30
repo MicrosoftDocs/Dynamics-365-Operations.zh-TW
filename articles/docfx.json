@@ -38,13 +38,8 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/dynamics-365-unified-operations-public",
-      "feedback_product_url": "https://ideas.dynamics.com",
       "contributors_to_exclude": [
-        "OpenLocalizationService",
-        "buck1ey",
-        "bishalgoswami"
+        "OpenLocalizationService"
       ],
       "layout": "Conceptual",
       "searchScope": [
@@ -52,7 +47,7 @@
         "Unified Operations"
       ],
       "extendBreadcrumb": "true",
-      "breadcrumb_path": "/dynamics365/ops-bc/toc.json",
+      "breadcrumb_path": "/dynamics365/ops-bc/toc.json",  
       "uhfHeaderId": "MSDocsHeader-Dynamics365",
       "brand": "dyn-ops",
       "_op_documentIdPathDepotMapping": {
@@ -80,7 +75,7 @@
           "folder_relative_path_in_docset": ".",
           "depot_name": "MSDN.d365OpsHR"
         }
-      },
+       },
       "recommendations": "true"
     },
     "fileMetadata": {
