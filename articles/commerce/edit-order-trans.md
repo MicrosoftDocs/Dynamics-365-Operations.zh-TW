@@ -1,32 +1,32 @@
 ---
 title: 編輯和稽核線上訂單以及非同步客戶訂單交易
-description: 本主題說明如何在 Microsoft Dynamics 365 Commerce 中編輯和稽核線上訂單和非同步客戶訂單交易。
+description: 本文章描述如何在 Microsoft Dynamics 365 Commerce 中編輯和稽核線上訂單和非同步客戶訂單交易。
 author: josaw1
 ms.date: 11/04/2020
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: v-chgri
-ms.custom: ''
-ms.assetid: ed0f77f7-3609-4330-bebd-ca3134575216
+ms.reviewer: v-chgriffin
 ms.search.region: global
-ms.search.industry: Retail
 ms.author: josaw
 ms.search.validFrom: 2018-11-15
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 99ad5be36587a3f726f5b40cccfdd30ab0ef48e1a87563a884f83264f40842fc
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.custom: ''
+ms.assetid: ed0f77f7-3609-4330-bebd-ca3134575216
+ms.search.industry: Retail
+ms.openlocfilehash: dac7ffe6d62aaea11f2f5af0476db446b091938b
+ms.sourcegitcommit: 87e727005399c82cbb6509f5ce9fb33d18928d30
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452802"
+ms.lasthandoff: 08/12/2022
+ms.locfileid: "9287669"
 ---
 # <a name="edit-and-audit-online-order-and-asynchronous-customer-order-transactions"></a>編輯和稽核線上訂單以及非同步客戶訂單交易
 
 [!include [banner](../includes/banner.md)]
 
-本主題說明如何在 Microsoft Dynamics 365 Commerce 中編輯和稽核線上訂單和非同步客戶訂單交易。
+本文章描述如何在 Microsoft Dynamics 365 Commerce 中編輯和稽核線上訂單和非同步客戶訂單交易。
 
 ## <a name="overview"></a>概觀
 

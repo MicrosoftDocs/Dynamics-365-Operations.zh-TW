@@ -1,6 +1,6 @@
 ---
 title: 使用共用數序來複製廠商
-description: 本主題說明如何使用共用數序將廠商複製到另一個法律實體，但保留相同的廠商識別碼。
+description: 本文章說明如何使用共用數序將廠商複製到另一個法律實體，但保留相同的廠商識別碼。
 author: sunfzam
 ms.date: 08/24/2018
 ms.topic: index-page
@@ -13,12 +13,12 @@ ms.search.region: Global
 ms.author: twheeloc
 ms.search.validFrom: 2018-10-31
 ms.dyn365.ops.version: 8.0999999999999996
-ms.openlocfilehash: 4cea8269082b39e2374ffb3c3dc82def8ce35679
-ms.sourcegitcommit: 9cbff8a2cdeaf606488fb0044b3de4ab4409c9dc
+ms.openlocfilehash: 7b7285cdf454955656c4fb20c3abf68f3f9c39dc
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/26/2022
-ms.locfileid: "8452961"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8904893"
 ---
 # <a name="copy-vendors-by-using-shared-number-sequences"></a>使用共用數序來複製廠商
 

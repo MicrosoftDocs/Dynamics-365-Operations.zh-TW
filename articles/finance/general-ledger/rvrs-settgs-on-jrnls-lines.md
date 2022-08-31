@@ -1,6 +1,6 @@
 ---
 title: 日記帳和明細的逆轉設定
-description: 本主題說明了為什麼在一般日記帳上輸入的沖銷分錄可能不會包含在過帳的交易中。
+description: 本文章說明了為什麼在一般日記帳上輸入的沖銷分錄可能不會包含在過帳的交易中。
 author: kweekley
 ms.date: 04/29/2021
 ms.topic: index-page
@@ -8,23 +8,23 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: ''
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: kfend
 ms.search.region: Global
 ms.author: kweekley
 ms.search.validFrom: 2021-5-05
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: d0659fbd814d3fb86b2f4a1ecb6162614ab8a4f125029fbb04f08cc5fb52b45c
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: e36a3ea1736e4d7f60a5a6ce588ad3e66c950c14
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452877"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8899834"
 ---
 # <a name="reverse-settings-on-journals-and-lines"></a>日記帳和明細的逆轉設定
 
 [!include [banner](../includes/banner.md)]
 
-本主題說明了為什麼在一般日記帳上輸入的沖銷分錄可能不會包含在過帳的交易中。  
+本文章說明了為什麼在一般日記帳上輸入的沖銷分錄可能不會包含在過帳的交易中。  
 
 ## <a name="symptom"></a>徵兆
 

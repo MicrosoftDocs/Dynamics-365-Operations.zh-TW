@@ -1,38 +1,36 @@
 ---
 title: 使用 Power BI 首頁報告和分析
-description: 本主題為您提供的資源可以用來了解更多有關可用商業智慧和報告工具的資訊。
+description: 本文章為您提供的資源可以用來了解更多有關可用商業智慧和報告工具的資訊。
 author: sericks007
 ms.date: 10/02/2019
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 audience: Application User, IT Pro
-ms.reviewer: kfend
-ms.custom:
-- "27681"
-- intro-internal
-ms.assetid: c4624bc8-3661-49e6-9cb4-87778acdc302
+ms.reviewer: sericks
 ms.search.region: Global
 ms.author: sericks
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 1a1c0ee254a5300cfc84eb434e4785b6eceacf0375b983b33991445443957a33
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.custom: 27681,  ""intro-internal
+ms.assetid: c4624bc8-3661-49e6-9cb4-87778acdc302
+ms.openlocfilehash: c8465347cf27cd68efb0a3c4ab8459a384cfb462
+ms.sourcegitcommit: 87e727005399c82cbb6509f5ce9fb33d18928d30
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452703"
+ms.lasthandoff: 08/12/2022
+ms.locfileid: "9291909"
 ---
 # <a name="reporting-and-analytics-with-power-bi-home-page"></a>使用 Power BI 首頁報告和分析
 
 [!include [banner](../includes/banner.md)]
 
-本主題為您提供的資源可以用來了解更多有關可用商業智慧 (BI) 和報告工具的資訊。
+本文章為您提供的資源可以用來了解更多有關可用商業智慧 (BI) 和報告工具的資訊。
 
 ## <a name="get-started"></a>開始
 - [資訊存取和報告](information-access-reporting.md)
 - [技術講座：報告選項](https://www.youtube.com/watch?v=NzZONjKs5xA) (影片)
-- [Finance and Operations：Power BI 分析和報表服務部落格](https://community.dynamics.com/365/financeandoperations/b/powerbianalyticsandreporting) (部落格)
+- [財務和營運：Power BI 分析和報表服務部落格](https://community.dynamics.com/365/financeandoperations/b/powerbianalyticsandreporting) (部落格)
 
 ## <a name="analytical-workspaces"></a>分析工作區
 工作區可以使用受 Microsoft Power BI 支援的豐富資訊圖和視覺效果。 這些資訊圖和視覺效果包括第三方提供的許多控制項。 因此，工作區可以為使用者提供高度視覺效果的互動體驗。

@@ -1,29 +1,27 @@
 ---
 title: 財務報表常見問題
-description: 本主題提供有關財務報表的一些常見問題解答。
-author: jiwo
+description: 本文章提供有關財務報表的一些常見問題解答。
+author: jinniew
 ms.date: 07/07/2021
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 ms.search.form: ''
 audience: Application User
-ms.reviewer: roschlom
-ms.search.scope: Core, Operations
 ms.search.region: Global
 ms.author: jiwo
 ms.search.validFrom: 2021-01-13
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: 3690a541b503281f204221a72bfb5a371984d9e4
-ms.sourcegitcommit: 25b3dd639e41d040c2714f56deadaa0906e4b493
+ms.openlocfilehash: 5981946a4bba2c58402f4cf566bfa008de67363b
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "8452901"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8901362"
 ---
 # <a name="financial-reporting-faq"></a>財務報表常見問題
 
-本主題提供有關財務報表的常見問題解答。
+本文章提供有關財務報表的常見問題解答。
 
 ## <a name="how-do-i-restrict-access-to-a-report-by-using-tree-security"></a>如何使用樹狀結構安全性限制對報表的存取？
 

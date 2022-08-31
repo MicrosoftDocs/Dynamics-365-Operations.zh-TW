@@ -1,6 +1,6 @@
 ---
 title: 零售商店交易的少量多次訂單建立
-description: 本主題描述 Microsoft Dynamics 365 Commerce 中適用於商店交易的涓流饋給式訂單建立。
+description: 本文章描述 Microsoft Dynamics 365 Commerce 中適用於商店交易的少量多次訂單建立。
 author: analpert
 ms.date: 01/11/2021
 ms.topic: index-page
@@ -15,12 +15,12 @@ ms.search.industry: Retail
 ms.author: josaw
 ms.search.validFrom: 2019-09-30
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 67b66cd4bf2a77f3ab7f33f691156e38cc13770a
-ms.sourcegitcommit: 27475081f3d2d96cf655b6afdc97be9fb719c04d
+ms.openlocfilehash: 0f0ee361df8c565761e79f5b0ecf519c149f2ec0
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "8452934"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8873242"
 ---
 # <a name="trickle-feed-based-order-creation-for-retail-store-transactions"></a>零售商店交易的少量多次訂單建立
 

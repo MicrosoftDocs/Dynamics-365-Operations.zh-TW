@@ -1,6 +1,6 @@
 ---
 title: 年末結帳缺少的期初餘額
-description: 本主題會說明為什麼您在將一年結帳時可能會缺少期初餘額，以及在缺少期初餘額時該如何重建這些餘額。
+description: 本文章說明為什麼您在將一年結帳時可能會缺少期初餘額，以及在缺少期初餘額時該如何重建這些餘額。
 author: kweekley
 ms.date: 05/12/2021
 ms.topic: index-page
@@ -8,23 +8,23 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: ''
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: kfend
 ms.search.region: Global
 ms.author: kweekley
 ms.search.validFrom: 2020-12-14
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: 4478f2b46f984c97ff01588098d64953dedf476e7f3f76aeecb29a0ff0074b9d
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: 9b64118fc3ff368e21ea8935c1e706f2161c620f
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452745"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8894840"
 ---
 # <a name="year-end-close-missing-opening-balances"></a>年末結帳缺少的期初餘額
 
 [!include [banner](../includes/banner.md)]
 
-本主題會說明為什麼您在將一年結帳時可能會缺少期初餘額，以及在缺少期初餘額時該如何重建這些餘額。
+本文章說明為什麼您在將一年結帳時可能會缺少期初餘額，以及在缺少期初餘額時該如何重建這些餘額。
 
 ### <a name="symptom"></a>徵兆
 
@@ -36,7 +36,7 @@ ms.locfileid: "8452745"
 
 如果 **復原上一次結帳** 欄位設定為 **是**，則代表相同會計年度的上一個年末結帳正在沖銷。 當您執行程序來沖銷年末結帳時，則期末與期初餘額的所有項目都會受到刪除，就像是該年從未結帳一樣。 憑單也會受到刪除。 年末結帳程序將不會再次自動執行。 您必須重新開始程序，這次請將 **復原上一次結帳** 選項更新為 **否**。
 
-年末結帳常見問題主題中涵蓋了此案例。 如需詳細資訊，請參閱[年末活動常見問題](faq-year-end-activities.md)。
+年末結帳常見問題文章中涵蓋了此案例。 如需詳細資訊，請參閱[年末活動常見問題](faq-year-end-activities.md)。
 
 ### <a name="symptom"></a>徵兆
 

@@ -1,24 +1,24 @@
 ---
 title: 銷售訂單的收入認列
-description: 本主題介紹了確認銷售訂單和發票上的收入的基本功能。 收入認列可用於銷售訂單和從銷售訂單建立的相對應發票。
-author: kweekley
+description: 本文章描述了認列銷售訂單和發票上的收入之基本功能。 收入認列可用於銷售訂單和從銷售訂單建立的相對應發票。
+author: bking
 ms.date: 08/24/2018
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 ms.search.form: Customer
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: twheeloc
 ms.search.region: Global
-ms.author: kweekley
+ms.author: bking
 ms.search.validFrom: 2018-08-30
 ms.dyn365.ops.version: 8.0.4
-ms.openlocfilehash: 1807e00f5f93bf9359da710af7c9a1f6de652e7ae78cf9604351af969b057b11
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: bb031b41c07aaff06b41830fb0c322503e9f27ec
+ms.sourcegitcommit: 1909d18a74cef85aad020a6a7473281e451f58c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452772"
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "9348230"
 ---
 # <a name="revenue-recognition-on-sales-orders"></a>銷售訂單的收入認列
 
@@ -27,10 +27,10 @@ ms.locfileid: "8452772"
 > [!NOTE]
 > 收入認列功能無法透過功能管理開啟。 目前，您必須使用設定金鑰開啟該功能。
 
-本主題介紹了確認銷售訂單和發票上的收入的基本功能。 收入認列可用於銷售訂單和從銷售訂單建立的相對應發票。 也可以透過時間和材料專案建立銷售訂單。
+本文章描述了認列銷售訂單和發票上的收入之基本功能。 收入認列可用於銷售訂單和從銷售訂單建立的相對應發票。 也可以透過時間和材料專案建立銷售訂單。
 
 > [!NOTE]
-> 在本主題的插圖中，為了更適當展示概念，已在格線中隱藏或新增欄。 因此，插圖中的頁面和資料可能與您在產品中所見的不同。
+> 在本文章的插圖中，為了更適當展示概念，已在格線中隱藏或新增欄。 因此，插圖中的頁面和資料可能與您在產品中所見的不同。
 
 ## <a name="enter-a-sales-order"></a>輸入銷售訂單
 

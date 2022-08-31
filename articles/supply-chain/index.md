@@ -1,6 +1,6 @@
 ---
 title: Supply Chain Management 首頁
-description: 此頁面提供 Supply Chain Management 功能的說明主題和其他資源清單。
+description: 此頁面提供 Supply Chain Management 功能的說明文章和其他資源清單。
 author: kamaybac
 ms.date: 09/15/2021
 ms.topic: index-page
@@ -15,22 +15,22 @@ ms.search.industry: ''
 ms.author: kamaybac
 ms.search.validFrom: 2016-11-30
 ms.dyn365.ops.version: Version 1611
-ms.openlocfilehash: 4ea45b238200d4d9d43d563e160e8574271a8ce7
-ms.sourcegitcommit: 7a2001e4d01b252f5231d94b50945fd31562b2bc
+ms.openlocfilehash: dbf77b57f7a107918c3b8a03290e208ed1c4803b
+ms.sourcegitcommit: 28a726b3b0726ecac7620b5736f5457bc75a5f84
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "8452895"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9066049"
 ---
 # <a name="supply-chain-management-home-page"></a>Supply Chain Management 首頁
 
 [!include [banner](includes/banner.md)]
 
-本主題提供 Dynamics 365 Supply Chain Management 中的說明主題和其他資源清單。
+本文章提供 Dynamics 365 Supply Chain Management 中的說明文章和其他資源清單。
 
 ## <a name="whats-new-and-in-development"></a>新增功能和開發中的功能
 
-請前往 [Dynamics 365 藍圖](https://roadmap.dynamics.com/)，以查看發行了哪些新功能及正在開發哪些新功能。
+請前往 [Dynamics 365 藍圖](https://roadmap.dynamics.com/)，以查看發行了哪些新增功能及正在開發哪些新功能。
 
 ## <a name="core-concepts-and-tasks"></a>核心概念和工作
 
@@ -56,16 +56,16 @@ ms.locfileid: "8452895"
 
 ## <a name="videos"></a>影片
 
-下列短片摘要說明 Microsoft Dynamics 365 for Finance and Operations 8.0 版 (2018 年 4 月) 中新增的供應鏈管理功能。
+下列短片摘要說明 Microsoft Dynamics 365 Finance 8.0 版 (2018 年 4 月) 中新增的供應鏈管理功能。
 
-- [在 Field Service 與 Finance and Operations 之間同步工單](https://youtu.be/hAB4TDVMjxU)
+- [在 Field Service 與財務和營運之間同步工單](https://youtu.be/hAB4TDVMjxU)
 
-下列短片摘要說明 Microsoft Dynamics 365 for Finance and Operations Enterprise edition 7.3 (2017 年 12 月) 中新增的供應鏈管理功能。
+下列短片摘要說明 Microsoft Dynamics 365 Finance, Enterprise Edition 7.3 (2017 年 12 月) 中新增的供應鏈管理功能。
 
 - [Optimization Advisor](https://www.youtube.com/watch?v=MRsAzgFCUSQ&t=4s)
 - [使用倉儲範本複製設定](https://www.youtube.com/watch?v=K2WIfFlqJYs&feature=youtu.be)
 
-下列短片摘要說明 Microsoft Dynamics 365 for Finance and Operations Enterprise Edition (2017 年 7 月) 中新增的供應鏈管理功能。
+下列短片摘要說明 Microsoft Dynamics 365 Finance, Enterprise Edition (2017 年 7 月) 中新增的供應鏈管理功能。
 
 - [開始使用成本會計](https://youtu.be/1pUDtJQZ8FU)
 - [成本控制行動工作區](https://youtu.be/imsuTg8rUVk)
@@ -73,7 +73,7 @@ ms.locfileid: "8452895"
 - [在行動裝置上核准訂購單](https://youtu.be/gZ-gOlJe7H8)
 - [使用甘特圖將生產和批次訂單的排程視覺化](https://youtu.be/BtbuShkGj4I)
 
-下列技術會議錄製內容討論了舊版 Finance and Operations 中的供應鏈管理功能。 此功能現在是 Dynamics 365 Supply Chain Management 的一部分；相同的概念仍然適用，而且程序在目前版本中會很類似。
+下列技術會議錄製內容討論了舊版財務和營運中的供應鏈管理功能。 此功能現在是 Dynamics 365 Supply Chain Management 的一部分；相同的概念仍然適用，而且程序在目前版本中會很類似。
 
 - **成本管理：**
   - [成本管理概觀](https://www.youtube.com/watch?v=vXzlC-mOBcg&feature=youtu.be)
@@ -93,12 +93,12 @@ ms.locfileid: "8452895"
 
 ## <a name="blogs"></a>部落格
 
-[Dynamics AX 製造研發團隊部落格](/archive/blogs/axmfg/)和 [Supply Chain Management in Dynamics AX 研發團隊部落格](https://blogs.msdn.microsoft.com/dynamicsaxscm/)中有許多關於製造和供應鏈管理的主題。 其中大部分是針對舊版所撰寫，但相同的概念仍然適用，而且程序在目前版本中會很類似。
+[Dynamics AX 製造研發團隊部落格](/archive/blogs/axmfg/)和 [Dynamics AX 研發團隊部落格中的 Supply Chain Management](https://blogs.msdn.microsoft.com/dynamicsaxscm/)中有許多關於製造和供應鏈管理的文章。 其中大部分是針對舊版所撰寫，但相同的概念仍然適用，而且程序在目前版本中會很類似。
 
 ## <a name="white-papers"></a>技術白皮書
 
 - [精益製造：可承諾能力和看板作業排程](/dynamics/s-e/)
-- [使用成本核算表計算 BOM](https://www.microsoft.com/download/details.aspx?id=101937/)
+- [使用成本核算表計算 BOM](https://www.microsoft.com/download/details.aspx?id=101937)
 
 ## <a name="elearning-courses"></a>電子學習課程
 
@@ -106,3 +106,4 @@ ms.locfileid: "8452895"
 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
+

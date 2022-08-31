@@ -1,6 +1,6 @@
 ---
 title: 年末活動常見問題
-description: 本主題列出了年末結帳時可能出現的問題，以及有助於年末結帳活動的答案。
+description: 本文章列出了年末結帳時可能出現的問題，以及有助於年終結帳活動的答案。
 author: moaamer
 ms.date: 12/21/2021
 ms.topic: index-page
@@ -8,23 +8,23 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: ''
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: kfend
 ms.search.region: Global
-ms.author: kweekley
+ms.author: moaamer
 ms.search.validFrom: 2020-12-14
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: b0560024d87ad72c7ab77eaff52a305a4ab5a089
-ms.sourcegitcommit: cd0ba5f0ac7c44d36559a3e6e0fffb6ed18f9a20
+ms.openlocfilehash: 1c5aca6180821dfc9fd1d475d4726c82acdf4d78
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/28/2021
-ms.locfileid: "8452931"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8865732"
 ---
 # <a name="year-end-activities-faq"></a>年末活動常見問題 
 
 [!include [banner](../includes/banner.md)]
 
-本主題列出了年末結帳時可能出現的問題，以及有助於年末結帳活動的答案。 本主題的資訊主要集中於總帳和應付帳款的年末結帳活動問題。
+本文章列出了年末結帳時可能出現的問題，以及有助於年終結帳活動的答案。 本文章的資訊主要集中於總帳和應付帳款的年終結帳活動問題。
 
 ## <a name="general-ledger-year-end-enhancements"></a>總帳年末增強功能 
 10.0.20 版引入了年末結帳增強功能，預設從 10.0.25 版開始啟用。 如果貴組織使用的是 10.0.25 以前的版本，建議您先啟用此功能，再開始年末結帳程序。 此功能必須先在系統中開啟，才能使用。 管理員可以使用功能管理工作區檢查功能的狀態，並在需要時開啟此功能。 在此，功能會以下方式列出：
@@ -75,9 +75,9 @@ ms.locfileid: "8452931"
 [![財務維度集。](./media/faq-2020-yr-end-04.png)](./media/faq-2020-yr-end-04.png)
 
 ### <a name="year-end-close-template-configuration"></a>年末結帳範本設定
-年末結帳範本讓組織在將損益餘額轉移到保留盈餘時，可選擇要維護的財務維度等級。 這些設定讓組織能在將餘額轉移到保留盈餘時維護詳細的財務維度 (**全部結算**)，或選擇將金額匯總為單一維度值 (**單筆結算**)。 每個財務維度皆可定義此設定。 如需有關這些設定的詳細資訊，請參閱[年末結帳](year-end-close.md)主題。
+年末結帳範本讓組織在將損益餘額轉移到保留盈餘時，可選擇要維護的財務維度等級。 這些設定讓組織能在將餘額轉移到保留盈餘時維護詳細的財務維度 (**全部結算**)，或選擇將金額匯總為單一維度值 (**單筆結算**)。 每個財務維度皆可定義此設定。 如需有關這些設定的詳細資訊，請參閱[年末結帳](year-end-close.md)文章。
 
-建議您評估組織的要求，如果可以，請盡可能多選擇維度，使用 **單筆結算** 年末結帳選項提高效能。 通過以單一維度值結帳 (也可以是空白值)，系統在確定保留盈餘科目分錄的餘額時，可以少計算一些詳細資訊。
+建議您評估組織的要求，如果可以，請盡可能多關閉維度，使用 **單筆結算** 年末結帳選項提高效能。 通過以單一維度值結帳 (也可以是空白值)，系統在確定保留盈餘科目分錄的餘額時，可以少計算一些詳細資訊。
 
 ## <a name="degenerate-dimensions"></a>退化維度
 

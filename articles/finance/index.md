@@ -1,33 +1,33 @@
 ---
 title: Finance 首頁
-description: 本主題提供 Microsoft Dynamics 365 Finance 財務管理功能的說明主題和其他資源清單。
-author: roschlom
+description: 本文章提供 Microsoft Dynamics 365 Finance 中財務管理功能的說明主題和其他資源清單。
+author: kfend
 ms.date: 11/04/2021
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: kfend
 ms.custom:
 - "206434"
 - intro-internal
 ms.assetid: 8a6238bd-9d6f-48d9-8752-3966836364a4
 ms.search.region: Global
-ms.author: roschlom
+ms.author: kfend
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 13a5e12c7ea45ff343a5c7ae14b8ed5a030aabf5
-ms.sourcegitcommit: 408786b164b44bee4e16ae7c3d956034d54c3f80
+ms.openlocfilehash: 9299a0ef4def8a41620ada24e8b13d7b41ed7cb7
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "8452913"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8887882"
 ---
 # <a name="finance-home-page"></a>Finance 首頁
 
 [!include [banner](includes/banner.md)]
 
-本主題提供 Microsoft Dynamics 365 Finance 財務管理功能的說明主題和其他資源清單。 
+本文章提供 Microsoft Dynamics 365 Finance 中財務管理功能的說明主題和其他資源清單。 
 
 請選擇一個功能區域以深入了解。
 
@@ -76,10 +76,10 @@ ms.locfileid: "8452913"
    - 開立發票
    - 為您組織購買的商品和服務付款 
     
-如需管理採購、庫存和製造等功能的相關資訊，請參閱 [Supply Chain Management 首頁 ](https://github.com/MicrosoftDocs/Dynamics-365-Operations/blob/WhatsNew-SCM-10-0-6/articles/supply-chain/index.md)。
+如需管理採購、庫存和製造等功能的相關資訊，請參閱 [Supply Chain Management 首頁 ](../supply-chain/index.md)。
 
 ## <a name="elearning-courses"></a>電子學習課程
 
-如需線上課程和培訓，請參閱 [Microsoft Learn 的 Dynamics 365 Finance](/learn/browse/?products=dynamics-finance&resource_type=learning+path)。
+如需線上課程和培訓，請參閱 [Microsoft Learn 上的 Dynamics 365 Finance](/learn/browse/?products=dynamics-finance&resource_type=learning+path)。
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

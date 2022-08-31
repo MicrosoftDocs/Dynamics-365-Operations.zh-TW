@@ -1,30 +1,30 @@
 ---
 title: 收入認列重新配置 - 案例 2
-description: 此主題會介紹重新配置情境，其中輸入了兩筆銷售訂單，而在第一筆銷售訂單已開具發票後，客戶在合約中新增了一個項目。 在合約中新增新項目時，可新增至新的一筆或現有的銷售訂單。
-author: kweekley
+description: 此文章介紹重新配置案例，其中輸入了兩筆銷售訂單，而在第一筆銷售訂單已開具發票後，客戶在合約中新增了一個項目。 在合約中新增新項目時，可新增至新的一筆或現有的銷售訂單。
+author: bking
 ms.date: 12/21/2020
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 ms.search.form: Customer
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: twheeloc
 ms.search.region: Global
-ms.author: kweekley
+ms.author: twheeloc
 ms.search.validFrom: 2020-12-21
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: 1fe195f171e8e343e9ce01b2ca0d4980d193a6fd3d9aa6f95efed66a29aa7d6d
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: 5f8dac2991b309bb91faaa3107480ca3860af008
+ms.sourcegitcommit: 1909d18a74cef85aad020a6a7473281e451f58c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452826"
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "9348373"
 ---
 # <a name="revenue-recognition-reallocation--scenario-2"></a>收入認列重新配置 - 案例 2
 
 [!include [banner](../includes/banner.md)]
 
-此主題會介紹重新配置情境，其中輸入了兩筆銷售訂單，而在第一筆銷售訂單已開具發票後，客戶在合約中新增了一個項目。 在合約中新增新項目時，可新增至新的一筆或現有的銷售訂單。
+此文章介紹重新配置案例，其中輸入了兩筆銷售訂單，而在第一筆銷售訂單已開具發票後，客戶在合約中新增了一個項目。 在合約中新增新項目時，可新增至新的一筆或現有的銷售訂單。
 
 針對此案例，在 **總帳參數** 頁面上的 **收入認列** 索引標籤中，**將發票更正過帳到應收帳款** 選項設定為 **否** (**收入認列 \> 設定 \> 總帳參數**)。
 

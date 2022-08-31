@@ -1,6 +1,6 @@
 ---
-title: 改進批次追蹤項目的處理
-description: 本主題介紹 Microsoft Dynamics 365 Commerce 中對帳單過帳過程中已改良的批次追蹤項目處理功能。
+title: 改善批次追蹤項目的處理
+description: 本文章介紹 Microsoft Dynamics 365 Commerce 中對帳單過帳過程中已改善的批次追蹤項目處理功能。
 author: josaw1
 ms.date: 09/09/2021
 ms.topic: index-page
@@ -15,18 +15,18 @@ ms.search.industry: Retail
 ms.author: josaw
 ms.search.validFrom: 2019-05-28
 ms.dyn365.ops.version: 10
-ms.openlocfilehash: 513b6ca84fa71e851a5a3e4275e0b6572789e1eb
-ms.sourcegitcommit: a73df4ddc7f8ddc9e37269c0236dc1bb9b7c7966
+ms.openlocfilehash: 736ab8dd21f04d7119cca6d53bfeb5e408b8cbd2
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "8452889"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8881870"
 ---
-# <a name="improved-handling-of-batch-tracked-items"></a>改進批次追蹤項目的處理
+# <a name="improved-handling-of-batch-tracked-items"></a>改善批次追蹤項目的處理
 
 [!include [banner](includes/banner.md)]
 
-本主題介紹 Microsoft Dynamics 365 Commerce 中對帳單過帳過程中已改良的批次追蹤項目處理功能。
+本文章介紹 Microsoft Dynamics 365 Commerce 中對帳單過帳過程中已改善的批次追蹤項目處理功能。
 
 在 Dynamics 365 Commerce 銷售點 (POS) 中，無法在銷售時為批次追蹤項目擷取批次號碼。 但是，對於當透過客戶訂單或對帳單過帳在 Commerce Headquarters 內將銷售過帳時的特定設定，Commerce 預期批次追蹤項目存在有效的批次號碼，並將在開票過程中使用。
 

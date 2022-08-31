@@ -1,6 +1,6 @@
 ---
 title: 客戶工作流程
-description: 本主題提供有關客戶工作流程的資訊。 您變更客戶的特定欄位，然後使用工作流程來傳送這些變更以供核准，再將其新增至客戶。
+description: 本文章提供有關客戶工作流程的資訊。 您變更客戶的特定欄位，然後使用工作流程來傳送這些變更以供核准，再將其新增至客戶。
 author: abruer
 ms.date: 08/24/2018
 ms.topic: index-page
@@ -8,17 +8,17 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: Customer
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: twheeloc
 ms.search.region: Global
-ms.author: roschlom
+ms.author: twheeloc
 ms.search.validFrom: 2018-08-30
 ms.dyn365.ops.version: 8.0.4
-ms.openlocfilehash: c74f18997b390d70b5012199fab1adc9734994f4
-ms.sourcegitcommit: 408786b164b44bee4e16ae7c3d956034d54c3f80
+ms.openlocfilehash: 883e77b5480a52201673e58a641c7180009a129c
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "8452916"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8864417"
 ---
 # <a name="customer-workflow"></a>客戶工作流程
 

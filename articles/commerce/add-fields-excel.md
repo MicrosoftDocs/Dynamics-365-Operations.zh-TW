@@ -1,32 +1,32 @@
 ---
 title: 將欄位新增至 Excel 活頁簿以編輯零售交易
-description: 本主題介紹如何將欄位新增到 Microsoft Excel 活頁簿，以便在 Microsoft Dynamics 365 Commerce 中編輯零售交易。
+description: 本文章介紹如何將欄位新增到 Microsoft Excel 活頁簿，以便在 Microsoft Dynamics 365 Commerce 中編輯零售交易。
 author: josaw1
 ms.date: 11/04/2020
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: v-chgri
-ms.custom: ''
-ms.assetid: ed0f77f7-3609-4330-bebd-ca3134575216
+ms.reviewer: v-chgriffin
 ms.search.region: global
-ms.search.industry: Retail
 ms.author: josaw
 ms.search.validFrom: 2018-11-15
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 359d4c360238db746402321a82f825f0d2c9a88a012800c5455d453e3a8bda73
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.custom: ''
+ms.assetid: ed0f77f7-3609-4330-bebd-ca3134575216
+ms.search.industry: Retail
+ms.openlocfilehash: a5cf726e25364b883cfd644f064a9ed4fb6f509d
+ms.sourcegitcommit: 87e727005399c82cbb6509f5ce9fb33d18928d30
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452727"
+ms.lasthandoff: 08/12/2022
+ms.locfileid: "9270391"
 ---
 # <a name="add-fields-to-an-excel-workbook-to-edit-retail-transactions"></a>將欄位新增至 Excel 活頁簿以編輯零售交易
 
 [!include [banner](../includes/banner.md)]
 
-本主題介紹如何將欄位新增到 Microsoft Excel 活頁簿，以便在 Microsoft Dynamics 365 Commerce 中編輯零售交易。
+本文章介紹如何將欄位新增到 Microsoft Excel 活頁簿，以便在 Microsoft Dynamics 365 Commerce 中編輯零售交易。
 
 ## <a name="overview"></a>概觀
 

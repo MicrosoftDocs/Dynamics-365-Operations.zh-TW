@@ -1,24 +1,24 @@
 ---
 title: 確認遞延收入
-description: 本主題提供有關如何使用收入認列功能來確認收入的資訊。
-author: kweekley
+description: 本文章提供有關如何使用收入認列功能來確認收入的資訊。
+author: bking
 ms.date: 08/24/2018
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 ms.search.form: Customer
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: twheeloc
 ms.search.region: Global
-ms.author: kweekley
+ms.author: bking
 ms.search.validFrom: 2018-08-30
 ms.dyn365.ops.version: 8.0.4
-ms.openlocfilehash: f6b221104d7012d82a0021b6d8f9cc10fe44cb7b8f3473ab8e7ae7a89be0a5e6
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: c749415ecd6a0cda8a29e19998c295afa2ef5fd5
+ms.sourcegitcommit: 1909d18a74cef85aad020a6a7473281e451f58c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452730"
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "9348201"
 ---
 # <a name="recognize-deferred-revenue"></a>確認遞延收入
 
@@ -27,7 +27,7 @@ ms.locfileid: "8452730"
 > [!NOTE]
 > 收入認列功能無法透過功能管理開啟。 目前，您必須使用設定金鑰開啟該功能。
 
-本主題介紹在收入認列表中確認收入的程序。 銷售訂單過帳到發票後，將為每個具有收益計畫表的銷售訂單明細建立收入認列表。 明細上的收益計畫表用於確定是否應該遞延該明細的收入。
+本文章描述在收入認列表中確認收入的程序。 銷售訂單過帳到發票後，將為每個具有收益計畫表的銷售訂單明細建立收入認列表。 明細上的收益計畫表用於確定是否應該遞延該明細的收入。
 
 ## <a name="view-revenue-recognition-schedule-details"></a>查看收入認列表詳細資料
 

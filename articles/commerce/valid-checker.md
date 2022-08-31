@@ -1,6 +1,6 @@
 ---
 title: 驗證商店交易以進行報表計算
-description: 本主題描述 Microsoft Dynamics 365 Commerce 中驗證商店交易的功能。
+description: 本文章描述 Microsoft Dynamics 365 Commerce 中驗證商店交易的功能。
 author: analpert
 ms.date: 01/31/2022
 ms.topic: index-page
@@ -15,18 +15,18 @@ ms.search.industry: Retail
 ms.author: analpert
 ms.search.validFrom: 2019-01-15
 ms.dyn365.ops.version: 10
-ms.openlocfilehash: f51b1f39aa212fe8587761721194db7791bec5bc
-ms.sourcegitcommit: 7893ffb081c36838f110fadf29a183f9bdb72dd3
+ms.openlocfilehash: 4be40189777a37495f185467050b61af47b684d7
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "8452955"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8890505"
 ---
 # <a name="validate-store-transactions-for-statement-calculation"></a>驗證商店交易以進行報表計算
 
 [!include [banner](includes/banner.md)]
 
-本主題描述 Microsoft Dynamics 365 Commerce 中驗證商店交易的功能。 驗證程序會識別並標記將導致過帳錯誤的交易，防止對帳單過帳過程接收到它們。
+本文章描述 Microsoft Dynamics 365 Commerce 中驗證商店交易的功能。 驗證程序會識別並標記將導致過帳錯誤的交易，防止對帳單過帳過程接收到它們。
 
 當您嘗試將對帳單過帳時，驗證程序可能會因為 Commerce 交易資料表中有不一致的資料而失敗。 以下是一些範例，呈現可能造成這些不一致性的因素：
 

@@ -1,30 +1,30 @@
 ---
 title: 收入認列搭售方案
-description: 本主題介紹應收帳款的收入認列功能中包含的搭售方案功能。 搭售方案包含一個父項和多個元件項目。
-author: kweekley
+description: 本文章描述應收帳款的收入認列功能中包含的搭售方案功能。 搭售方案包含一個父項和多個元件項目。
+author: bking
 ms.date: 01/04/2021
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 ms.search.form: ''
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: twheeloc
 ms.search.region: Global
-ms.author: kweekley
+ms.author: bking
 ms.search.validFrom: 2021-01-04
 ms.dyn365.ops.version: 10.0.7
-ms.openlocfilehash: 272261f9ba189bec55e856aa617bf5716e3f4fa261ef7bfd7269184a09a51a2b
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: 9b33906fd1907ce476eec5ba36ab243aa072cf6f
+ms.sourcegitcommit: 1909d18a74cef85aad020a6a7473281e451f58c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452832"
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "9348289"
 ---
 # <a name="revenue-recognition-bundles"></a>收入認列搭售方案
 
 [!include [banner](../includes/banner.md)]
 
-本主題介紹應收帳款的收入認列功能中包含的搭售方案功能。 搭售方案包含一個父項和多個元件項目。 父項輸入在銷售訂單上，使訂單登錄更有效率。 但是，它隨後會分解為元件項目。 內部文件 (如裝箱單) 將列出元件項目。 但是，外部文件將僅顯示父項。
+本文章描述應收帳款的收入認列功能中包含的搭售方案功能。 搭售方案包含一個父項和多個元件項目。 父項輸入在銷售訂單上，使訂單登錄更有效率。 但是，它隨後會分解為元件項目。 內部文件 (如裝箱單) 將列出元件項目。 但是，外部文件將僅顯示父項。
 
 > [!NOTE]
 > Microsoft Dynamics 365 Commerce 管道 (如線上、銷售點 (POS) 和話務中心等) 不支援收入認列 (包括搭售方案功能)。 這還包括針對 Dynamics 365 Supply Chain Management 和 Dynamics 365 Sales 的潛在客戶轉現金解決方案。 設定使用收入認列的品項不應新增到在 Commerce 管道中建立或潛在客戶轉現金解決方案中的訂單或交易。

@@ -1,30 +1,30 @@
 ---
 title: 收入認列重新配置 - 案例 1
-description: 此主題會介紹重新配置案例，其中輸入了兩筆銷售訂單，但訂單僅經過確認。 如果兩個以上的銷售訂單處於確認狀態，相同的情境將產生類似的結果。
-author: kweekley
+description: 此文章會介紹重新配置案例，其中輸入了兩筆銷售訂單，但訂單僅經過確認。 如果兩個以上的銷售訂單處於確認狀態，相同的情境將產生類似的結果。
+author: bking
 ms.date: 12/21/2020
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 ms.search.form: Customer
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: twheeloc
 ms.search.region: Global
-ms.author: kweekley
+ms.author: bking
 ms.search.validFrom: 2020-12-21
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: d63082553f8625a9953b0a85d59a4949a37c92770ce2a41a43d78cf0266f3b85
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: 92af49d9446fd9ed3310d8d0d50af902e7a7e693
+ms.sourcegitcommit: 1909d18a74cef85aad020a6a7473281e451f58c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452829"
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "9348309"
 ---
 # <a name="revenue-recognition-reallocation--scenario-1"></a>收入認列重新配置 - 案例 1
 
 [!include [banner](../includes/banner.md)]
 
-此主題會介紹重新配置案例，其中輸入了兩筆銷售訂單，但訂單僅經過確認。 如果兩個以上的銷售訂單處於確認狀態，相同的情境將產生類似的結果。
+此文章會介紹重新配置案例，其中輸入了兩筆銷售訂單，但訂單僅經過確認。 如果兩個以上的銷售訂單處於確認狀態，相同的情境將產生類似的結果。
 
 針對此案例，在 **總帳參數** 頁面上的 **收入認列** 索引標籤中，**將發票更正過帳到應收帳款** 選項設定為 **否** (**收入認列 \> 設定 \> 總帳參數**)。
 

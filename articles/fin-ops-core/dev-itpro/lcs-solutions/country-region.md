@@ -1,32 +1,32 @@
 ---
 title: 全球化資源
-description: 本主題包含的資源清單可幫助您深入了解有關國家/地區特定功能和供應項目。
-author: kfend
+description: 本文章包含的資源清單可幫助您深入了解有關國家/地區特定功能和供應項目。
+author: sericks007
 ms.date: 02/19/2021
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
-ms.search.form: ERWorkspace
 audience: Application User
 ms.reviewer: sericks
-ms.custom: 104173
 ms.search.region: Global
-ms.author: kfend
+ms.author: sericks
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: 822f00c21715b928027a7656f299a693686bf5dfc01f1f5a1738d5eb8d4bf124
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.custom: 104173
+ms.search.form: ERWorkspace
+ms.openlocfilehash: 22b81f93a6879e1a380c8d6c3b5c554ca6bd5dc5
+ms.sourcegitcommit: 87e727005399c82cbb6509f5ce9fb33d18928d30
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452757"
+ms.lasthandoff: 08/12/2022
+ms.locfileid: "9288692"
 ---
 # <a name="globalization-resources"></a>全球化資源
 
 ## <a name="local-and-regional-deployments"></a>本地和區域部署
 如果您的政府法規要求儲存或服務資料的方式與其他國家/地區的要求不同，那麼您在部署期間可能必須考慮國家/地區的要求。 考慮以下可能與您相關的資源：
 
-[21Vianet 在中國營運的財務和營運應用程式](../deployment/china-local-deployment.md)
+[世紀互聯在中國營運的財務和營運應用程式](../deployment/china-local-deployment.md)
 
 ## <a name="localization-and-regulatory-features"></a>當地語系化和法規功能
 
@@ -34,7 +34,7 @@ ms.locfileid: "8452757"
 
 財務和營運應用程式包括[產品當地語系化和翻譯可用性指南](https://aka.ms/dynamics_365_international_availability_deck)中記載的國家/地區適用的功能。 此功能是根據活動法律實體的主要地址啟用的。 
 
-本主題包括可幫助您執行以下操作的資源清單： 
+本文章包括可幫助您執行以下操作的資源清單： 
 - 深入了解有關發展中國家/地區特定的解決方案。
 - 獲取特定國家/地區的更新。
 - 提交和審閱法規警示。
@@ -60,13 +60,13 @@ ms.locfileid: "8452757"
 -   [提交有關國家/地區特定監管功能的警示](submit-localization-alerts.md)
 
 #### <a name="dynamics-365-release-plans"></a>Dynamics 365 發行計劃
-[Dynamics 365 發行計劃](/business-applications-release-notes/)提供為 Dynamics 365 Business Applications 和應用程式平台所規劃的新功能和增強功能的描述。 
+[Dynamics 365 發行計劃](/business-applications-release-notes/)提供為 Dynamics 365 商務應程式和應用程式平台所規劃的新功能和增強功能的描述。 
 
-#### <a name="finance-and-operations-apps-whats-new"></a>財務和營運應用程式的新功能
-[Finance and Operations 首頁中的新增內容或更改內容](../../fin-ops/get-started/whats-new-changed.md)列出了特定版本的財務和營運應用程式中包含的功能。
+#### <a name="finance-and-operations-apps-whats-new"></a>財務和營運應用程式新增功能
+[財務和營運首頁中的新增功能或變更](../../fin-ops/get-started/whats-new-changed.md)列出了特定版本的財務和營運應用程式中包含的功能。
 
 ### <a name="electronic-reporting"></a>電子報表
-電子報表 (ER) 允許您依照各個國家或地區法律要求設定電子文件格式。 ER 可讓您在其生命週期內管理這些格式。 如需詳細資訊，請參閱下列主題之一：
+電子報表 (ER) 工具可讓您依照各個國家/地區的法律要求設定電子文件格式。 ER 可讓您在其生命週期內管理這些格式。 如需詳細資訊，請參閱下列主題之一：
 -   [電子報表 (ER) 概觀](../analytics/general-electronic-reporting.md)
 -   [管理電子報表 (ER) 設定生命週期](../analytics/general-electronic-reporting-manage-configuration-lifecycle.md)
 -   [建立電子報表 (ER) 設定](../analytics/electronic-reporting-configuration.md)
@@ -133,3 +133,4 @@ ms.locfileid: "8452757"
 
 
 [!INCLUDE[footer-include](../../../includes/footer-banner.md)]
+

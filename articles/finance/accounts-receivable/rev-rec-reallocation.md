@@ -1,24 +1,24 @@
 ---
 title: 收入認列重新配置
-description: 本主題提供有關重新配置的資訊，這可讓組織在合約銷售條款發生變更時重新計算收入價格。 當中包括指向其他主題的連結，內容描述如何在多種情境下確認收入。
-author: kweekley
+description: 本文章提供有關重新配置的資訊，這可讓組織在合約銷售條款發生變更時重新計算收入價格。 當中包括指向其他主題的連結，內容描述如何在多種情境下確認收入。
+author: bking
 ms.date: 09/09/2021
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 ms.search.form: Customer
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: twheeloc
 ms.search.region: Global
-ms.author: kweekley
+ms.author: bking
 ms.search.validFrom: 2020-12-21
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: 53304842bdbe7dadb435ab3a0381f3835c2c443a
-ms.sourcegitcommit: 3f6cbf4fcbe0458b1515c98a1276b5d875c7eda7
+ms.openlocfilehash: 6c7e2149058ebbff85cbc2ac86dac3231fbcc41d
+ms.sourcegitcommit: 1909d18a74cef85aad020a6a7473281e451f58c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "8452892"
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "9348143"
 ---
 # <a name="revenue-recognition-reallocation"></a>收入認列重新配置
 
@@ -58,7 +58,7 @@ ms.locfileid: "8452892"
 
 由於可以對部分或全部開票的銷售訂單進行重新配置，因此必須使用重新配置的新收入價格更正發票任何先前的會計分錄。 此更正是透過撤銷原始發票的會計分錄，並將基於重新配置的收入價格的新會計分錄過帳來完成的。
 
-每個組織都必須決定更正是否應僅更新總帳，或者是否同時應更新應收帳款。 所達成的決策決定了 **總帳參數** 頁面的 **收入認列** 索引標籤上 **將發票更正過帳到應收帳款** 選項 (**收入認列 \> 設定 \> 總帳參數**) 的適當設定。 適當的設定取決於具體的情境。 有關可能的情境的詳細資訊，請使用本主題稍後的[重新配置的情境](#scenarios-for-reallocation)一節中的連結。
+每個組織都必須決定更正是否應僅更新總帳，或者是否同時應更新應收帳款。 所達成的決策決定了 **總帳參數** 頁面的 **收入認列** 索引標籤上 **將發票更正過帳到應收帳款** 選項 (**收入認列 \> 設定 \> 總帳參數**) 的適當設定。 適當的設定取決於具體的情境。 如需可能情境的相關詳細資訊，請使用本文章稍後的[重新配置的情境](#scenarios-for-reallocation)一節中的連結。
 
 [![總帳參數頁面上的收入認列索引標籤。](./media/01_RevRecScenarios.png)](./media/01_RevRecScenarios.png)
 
@@ -90,7 +90,7 @@ ms.locfileid: "8452892"
 
 [![使用新訂單明細重新配置價格頁面。](./media/02_RevRecScenarios.png)](./media/02_RevRecScenarios.png)
 
-**使用新訂單明細重新配置價格** 頁面上方的格線名為 **銷售**。 它列出了客戶的銷售訂單。 選擇必須重新配置的銷售訂單。 如果銷售訂單具有重新配置識別碼，則它已被另一個使用者標記為重新配置。 如果一個或多個銷售訂單先前已重新配置並且必須包含在另一個重新配置中，則必須首先撤消該些銷售訂單的重新配置。 之後可以將其包含在新的重新配置中。 有關更多詳細資訊，請參閱本主題稍後的[復原重新配置](#undo-a-reallocation)和[多次重新配置](#reallocate-multiple-times)章節。
+**使用新訂單明細重新配置價格** 頁面上方的格線名為 **銷售**。 它列出了客戶的銷售訂單。 選擇必須重新配置的銷售訂單。 如果銷售訂單具有重新配置識別碼，則它已被另一個使用者標記為重新配置。 如果一個或多個銷售訂單先前已重新配置並且必須包含在另一個重新配置中，則必須首先撤消該些銷售訂單的重新配置。 之後可以將其包含在新的重新配置中。 如需更多詳細資訊，請參閱本文章稍後的[復原重新配置](#undo-a-reallocation)和[多次重新配置](#reallocate-multiple-times)章節。
 
 頁面下方的格線名為 **明細**。 在 **銷售** 格線中選擇一個或多個銷售訂單後，**明細** 格線會顯示銷售訂單明細。 選擇必須重新配置的銷售訂單明細。 如果您只選擇了一個銷售訂單，則必須重新配置同一銷售訂單上的明細。 當其中一個銷售訂單行先前已開票，然後加入了新明細，或者移除或取消了現有明細時，可能會發生這種情況。 如果移除了一條明細，它將不會出現在格線中。 因此，無法選擇它。 不過，在執行重新配置程序時仍會考慮它。
 

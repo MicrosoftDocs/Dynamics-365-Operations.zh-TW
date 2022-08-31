@@ -1,6 +1,6 @@
 ---
 title: 更改或重新指派分類帳行事曆
-description: 本主題說明如何更改目前指派至分類帳的行事曆，以及如何將新行事曆指派至分類帳。
+description: 本文章說明如何更改目前指派至分類帳的行事曆，以及如何將新行事曆指派至分類帳。
 author: kweekley
 ms.date: 05/07/2021
 ms.topic: index-page
@@ -8,23 +8,23 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: ''
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: kfend
 ms.search.region: Global
 ms.author: kweekley
 ms.search.validFrom: 2021-5-07
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: 16000243bc8aa76b04ac56dfb8bfbab7cd644eb3120cc68493ff066598f6cf85
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: 751954e0dc5f682b99ab7fe349cd505dc9da7858
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452787"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8848598"
 ---
 # <a name="change-or-reassign-a-ledger-calendar"></a>更改或重新指派分類帳行事曆
 
 [!include [banner](../includes/banner.md)]
 
-本主題說明如何更改目前指派至分類帳的行事曆，以及如何將新行事曆指派至分類帳。
+本文章說明如何更改目前指派至分類帳的行事曆，以及如何將新行事曆指派至分類帳。
 
 ## <a name="issue"></a>問題
 

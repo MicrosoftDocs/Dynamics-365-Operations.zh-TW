@@ -4,120 +4,88 @@
       items:
         - name: Dynamics 365 Human Resources 首頁
           href: index.md
-        - name: 基礎結構版本 10.0.25
-          href: hr-infrastructure.md
-        - name: Dynamics 365 Human Resources 合併式基礎結構的新功能或變更
-          href: ./get-started/hr-whats-new-changed-10-0-25.md
+        - name: 新增功能或變更
+          items:
+            - name: 財務和營運應用程式的新增功能或變更
+              href: ../fin-ops-core/fin-ops/get-started/whats-new-changed.md?toc=/dynamics365/finance/toc.json
+            - name: Human Resources 的新增功能或變更
+              items:
+                - name: Human Resources 10.0.29 (合併基礎結構)
+                  href: ./get-started/whats-new-changed-10-0-29.md
+                - name: Human Resources 10.0.28 (合併基礎結構)
+                  href: ./get-started/whats-new-changed-10.0.28.md
+                - name: Human Resources 10.0.27 (合併基礎結構)
+                  href: ./get-started/hr-whats-new-changed-10-0-27.md
+                - name: Human Resources 10.0.26 (合併基礎結構)
+                  href: ./get-started/hr-whats-new-changed-10-0-26.md
+                - name: Human Resources 10.0.25 (合併基礎結構)
+                  href: ./get-started/hr-whats-new-changed-10-0-25.md
+                - name: Dynamics 365 Human Resources (獨立版) 新增功能
+                  items:
+                    - name: 2021 年 Dynamics 365 Human Resources (獨立版) 新增功能的封存
+                      href: hr-admin-whats-new.md
+                    - name: 2021 年 11 月 29 日
+                      href: hr-whats-new-2021-11-29.md
+                    - name: 2021 年 10 月 5 日
+                      href: hr-whats-new-2021-10-04.md
+                    - name: 2021 年 9 月 20 日
+                      href: hr-whats-new-2021-09-20.md
+                    - name: 2021 年 9 月 6 日
+                      href: hr-whats-new-2021-09-06.md
+                    - name: 2021 年 8 月 23 日
+                      href: hr-whats-new-2021-08-23.md
+                    - name: 2021 年 8 月 9 日
+                      href: hr-whats-new-2021-08-09.md
+                    - name: 2021 年 7 月 26 日
+                      href: hr-whats-new-2021-07-26.md
+                    - name: 2021 年 7 月 12 日
+                      href: hr-whats-new-2021-07-12.md
+                    - name: 2021 年 6 月 22 日
+                      href: hr-whats-new-2021-06-22.md
+                    - name: 2021 年 5 月 20 日
+                      href: hr-whats-new-2021-05-20.md
+                    - name: 2021 年 5 月 3 日
+                      href: hr-whats-new-2021-05-03.md
+                    - name: 2021 年 4 月 19 日
+                      href: hr-whats-new-2021-04-19.md
+                    - name: 2021 年 4 月 5 日
+                      href: hr-whats-new-2021-04-05.md
+                    - name: 2021 年 3 月 22 日
+                      href: hr-whats-new-2021-03-22.md
+                    - name: 2021 年 3 月 8 日
+                      href: hr-whats-new-2021-03-08.md
+                    - name: 2021 年 2 月 22 日
+                      href: hr-whats-new-2021-02-22.md
+                    - name: 2021 年 1 月 28 日
+                      href: hr-whats-new-2021-01-28.md
+                    - name: 2021 年 1 月 21 日
+                      href: hr-whats-new-2021-01-21.md
+                - name: 已移除或棄用的功能
+                  items:
+                    - name: 已移除或棄用的功能首頁
+                      href: ../fin-ops-core/fin-ops/get-started/removed-deprecated-features-home-page.md?toc=/dynamics365/finance/toc.json
+                    - name: Dynamics 365 Human Resources 中已移除或棄用的功能
+                      href: get-started/removed-deprecated-features-hr.md
         - name: 開始
           items:
-            - name: 新增功能
-              href: hr-admin-whats-new.md
-            - name: 2021 年新功能或變更的封存
-              items:
-                - name: 2021 年 11 月 29 日
-                  href: hr-whats-new-2021-11-29.md
-                - name: 2021 年 10 月 5 日
-                  href: hr-whats-new-2021-10-04.md
-                - name: 2021 年 9 月 20 日
-                  href: hr-whats-new-2021-09-20.md
-                - name: 2021 年 9 月 6 日
-                  href: hr-whats-new-2021-09-06.md
-                - name: 2021 年 8 月 23 日
-                  href: hr-whats-new-2021-08-23.md
-                - name: 2021 年 8 月 9 日
-                  href: hr-whats-new-2021-08-09.md
-                - name: 2021 年 7 月 26 日
-                  href: hr-whats-new-2021-07-26.md
-                - name: 2021 年 7 月 12 日
-                  href: hr-whats-new-2021-07-12.md
-                - name: 2021 年 6 月 22 日
-                  href: hr-whats-new-2021-06-22.md
-                - name: 2021 年 5 月 20 日
-                  href: hr-whats-new-2021-05-20.md
-                - name: 2021 年 5 月 3 日
-                  href: hr-whats-new-2021-05-03.md
-                - name: 2021 年 4 月 19 日
-                  href: hr-whats-new-2021-04-19.md
-                - name: 2021 年 4 月 5 日
-                  href: hr-whats-new-2021-04-05.md
-                - name: 2021 年 3 月 22 日
-                  href: hr-whats-new-2021-03-22.md
-                - name: 2021 年 3 月 8 日
-                  href: hr-whats-new-2021-03-08.md
-                - name: 2021 年 2 月 22 日
-                  href: hr-whats-new-2021-02-22.md
-                - name: 2021 年 1 月 28 日
-                  href: hr-whats-new-2021-01-28.md
-                - name: 2021 年 1 月 21 日
-                  href: hr-whats-new-2021-01-21.md
-            - name: 2020 年新功能的封存
-              items:
-                - name: 2020 年 12 月 2 日
-                  href: hr-whats-new-2020-12-02.md
-                - name: 2020 年 10 月 22 日
-                  href: hr-whats-new-2020-10-22.md
-                - name: 2020 年 10 月 6 日
-                  href: hr-whats-new-2020-10-06.md
-                - name: 2020 年 9 月 26 日
-                  href: hr-whats-new-2020-09-26.md
-                - name: 2020 年 9 月 16 日
-                  href: hr-whats-new-2020-09-16.md
-                - name: 2020 年 9 月 3 日
-                  href: hr-whats-new-2020-09-03.md
-                - name: 2020 年 8 月 20 日
-                  href: hr-whats-new-2020-08-20.md
-                - name: 2020 年 8 月 6 日
-                  href: hr-whats-new-2020-08-06.md
-                - name: 2020 年 7 月 23 日
-                  href: hr-whats-new-2020-07-23.md
-                - name: 2020 年 7 月 8 日
-                  href: hr-whats-new-2020-07-08.md
-                - name: 2020 年 6 月 25 日
-                  href: hr-whats-new-2020-06-23.md
-                - name: 2020 年 6 月 11 日
-                  href: hr-whats-new-2020-06-11.md
-                - name: 2020 年 5 月 28 日
-                  href: hr-whats-new-2020-05-28.md
-                - name: 2020 年 5 月 14 日
-                  href: hr-whats-new-2020-05-14.md
-                - name: 2020 年 5 月 1 日
-                  href: hr-whats-new-2020-05-01.md
-                - name: 2020 年 4 月 13 日
-                  href: hr-whats-new-2020-04-13.md
-                - name: 2020 年 4 月 3 日
-                  href: hr-whats-new-2020-04-03.md
-                - name: 2020 年 3 月 24 日
-                  href: hr-whats-new-2020-03-24.md
-                - name: 2020 年 3 月 19 日
-                  href: hr-whats-new-2020-03-19.md
-                - name: 2020 年 3 月 10 日
-                  href: hr-whats-new-2020-03-10.md
-                - name: 2020 年 3 月 3 日
-                  href: hr-whats-new-2020-03-03.md
-                - name: 2020 年 2 月 25 日
-                  href: hr-whats-new-2020-02-25.md
-                - name: 2020 年 2 月 18 日
-                  href: hr-whats-new-2020-02-18.md
-                - name: 2020 年 2 月 12 日
-                  href: hr-whats-new-2020-02-12.md
-                - name: 2020 年 2 月 7 日
-                  href: hr-whats-new-2020-02-07.md
-                - name: 2020 年 2 月 3 日
-                  href: hr-whats-new-2020-02-03.md
             - name: 概觀
               href: hr-admin-overview.md
             - name: 系統需求
               href: hr-admin-system-requirements.md
             - name: 設定及管理執行個體
               items:
-                - name: 佈建 Human Resources
-                  href: hr-admin-setup-provision.md
-                - name: 複製執行個體
-                  href: hr-admin-setup-copy-instance.md
-                - name: 移除執行個體
-                  href: hr-admin-setup-remove-instance.md
-                - name: 更新流程
-                  href: hr-admin-setup-update-process.md
+                - name: 在財務和營運基礎結構中佈建 Human Resources
+                  href: hr-admin-setup-provision-fo.md
+                - name: 在獨立版基礎結構中佈建 Human Resources
+                  items:
+                    - name: 佈建 Human Resources
+                      href: hr-admin-setup-provision.md
+                    - name: 複製執行個體
+                      href: hr-admin-setup-copy-instance.md
+                    - name: 移除執行個體
+                      href: hr-admin-setup-remove-instance.md
+                    - name: 更新流程
+                      href: hr-admin-setup-update-process.md
             - name: 設定資料整合
               items:
                 - name: 選擇資料整合技術
@@ -143,91 +111,91 @@
                 - name: 與 Office 整合
                   items:
                     - name: Office 整合教學課程
-                      href: ../fin-ops-core/dev-itpro/office-integration/office-integration-tutorial.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                      href: ../fin-ops-core/dev-itpro/office-integration/office-integration-tutorial.md?context=/dynamics365/context/human-resources
                     - name: 在 Excel 中更新實體資料
-                      href: ../fin-ops-core/dev-itpro/office-integration/use-excel-add-in.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                      href: ../fin-ops-core/dev-itpro/office-integration/use-excel-add-in.md?context=/dynamics365/context/human-resources
                     - name: 在 Excel 中開啟體驗常見問題
-                      href: ../fin-ops-core/dev-itpro/office-integration/office-integration-edit-excel.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                      href: ../fin-ops-core/dev-itpro/office-integration/office-integration-edit-excel.md?context=/dynamics365/context/human-resources
                     - name: 對 Office 整合進行疑難排解
-                      href: ../fin-ops-core/dev-itpro/office-integration/office-integration-troubleshooting.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                      href: ../fin-ops-core/dev-itpro/office-integration/office-integration-troubleshooting.md?context=/dynamics365/context/human-resources
                 - name: 設定資料管理
                   items:
                     - name: 資料管理架構概觀
-                      href: ../fin-ops-core/dev-itpro/data-entities/data-entities-data-packages.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                      href: ../fin-ops-core/dev-itpro/data-entities/data-entities-data-packages.md?context=/dynamics365/context/human-resources
                     - name: 資料實體
                       items:
                         - name: 資料實體概觀
-                          href: ../fin-ops-core/dev-itpro/data-entities/data-entities.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/data-entities.md?context=/dynamics365/context/human-resources
                         - name: 設定資料專案
-                          href: ../fin-ops-core/dev-itpro/data-entities/configuration-data-projects.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/configuration-data-projects.md?context=/dynamics365/context/human-resources
                     - name: 在公司或法律實體之間複製設定資料
                       items:
                         - name: 複製設定資料概觀
-                          href: ../fin-ops-core/dev-itpro/data-entities/copy-configuration.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/copy-configuration.md?context=/dynamics365/context/human-resources
                         - name: 設定資料套件
-                          href: ../fin-ops-core/dev-itpro/data-entities/configuration-data-packages.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/configuration-data-packages.md?context=/dynamics365/context/human-resources
                         - name: 設定資料套件 (僅限 2017 年 7 月版)
-                          href: ../fin-ops-core/dev-itpro/data-entities/configuration-data-packages.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/configuration-data-packages.md?context=/dynamics365/context/human-resources
                         - name: 設定資料範本
-                          href: ../fin-ops-core/dev-itpro/data-entities/configuration-data-templates.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/configuration-data-templates.md?context=/dynamics365/context/human-resources
                         - name: 追蹤實體的變更
-                          href: ../fin-ops-core/dev-itpro/data-entities/entity-change-track.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/entity-change-track.md?context=/dynamics365/context/human-resources
                         - name: 尋找有關標準資料實體的資訊
-                          href: ../fin-ops-core/dev-itpro/data-entities/data-entities-report.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/data-entities-report.md?context=/dynamics365/context/human-resources
                         - name: 具有多個工作表的資料範本
-                          href: ../fin-ops-core/dev-itpro/data-entities/excel-template-multiple.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/excel-template-multiple.md?context=/dynamics365/context/human-resources
                         - name: 為實體啟用變更追蹤
-                          href: ../fin-ops-core/dev-itpro/data-entities/entity-change-track.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/entity-change-track.md?context=/dynamics365/context/human-resources
                         - name: 設定索引鍵和資料實體
-                          href: ../fin-ops-core/dev-itpro/data-entities/config-key-entities.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/config-key-entities.md?context=/dynamics365/context/human-resources
                         - name: 設定資料套件
-                          href: ../fin-ops-core/dev-itpro/data-entities/configuration-data-packages.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/configuration-data-packages.md?context=/dynamics365/context/human-resources
                     - name: 資料匯入與匯出工作
                       items:
                         - name: 資料匯入與匯出工作概觀
-                          href: ../fin-ops-core/dev-itpro/data-entities/data-import-export-job.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/data-import-export-job.md?context=/dynamics365/context/human-resources
                         - name: 使用一般日記帳實體匯入憑單的最佳做法
-                          href: ../fin-ops-core/dev-itpro/data-entities/tips-tricks-import-general-journal-entity.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/tips-tricks-import-general-journal-entity.md?context=/dynamics365/context/human-resources
                     - name: 資料實體的開發
                       items:
                         - name: 資料實體的設計原則和最佳做法
-                          href: ../fin-ops-core/dev-itpro/dev-tools/design-best-practices.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/dev-tools/design-best-practices.md?context=/dynamics365/context/human-resources
                         - name: 建立新的資料實體
-                          href: ../fin-ops-core/dev-itpro/data-entities/build-consuming-data-entities.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/build-consuming-data-entities.md?context=/dynamics365/context/human-resources
                         - name: 資料實體屬性
-                          href: ../fin-ops-core/dev-itpro/data-entities/behavioral-properties-data-entities.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/behavioral-properties-data-entities.md?context=/dynamics365/context/human-resources
                         - name: 建立計算資料行和虛擬欄位
-                          href: ../fin-ops-core/dev-itpro/data-entities/data-entity-computed-columns-virtual-fields.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/data-entity-computed-columns-virtual-fields.md?context=/dynamics365/context/human-resources
                         - name: 跨公司行為
-                          href: ../fin-ops-core/dev-itpro/data-entities/cross-company-behavior.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/cross-company-behavior.md?context=/dynamics365/context/human-resources
                         - name: 處理國碼 (地區碼)
-                          href: ../fin-ops-core/dev-itpro/data-entities/countryregion-codes-configuration-keys.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/countryregion-codes-configuration-keys.md?context=/dynamics365/context/human-resources
                         - name: 繼承模式
-                          href: ../fin-ops-core/dev-itpro/data-entities/support-super-type-sub-type.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/support-super-type-sub-type.md?context=/dynamics365/context/human-resources
                         - name: 資料實體精靈規則
-                          href: ../fin-ops-core/dev-itpro/data-entities/data-entity-wizard-rules.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/data-entity-wizard-rules.md?context=/dynamics365/context/human-resources
                         - name: 中繼資料屬性
-                          href: ../fin-ops-core/dev-itpro/data-entities/behavioral-properties-data-entities.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/behavioral-properties-data-entities.md?context=/dynamics365/context/human-resources
                         - name: 驗證、預設和未對應的欄位
-                          href: ../fin-ops-core/dev-itpro/data-entities/validations-defaults-unmapped-fields.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/validations-defaults-unmapped-fields.md?context=/dynamics365/context/human-resources
                         - name: 安全性和資料實體
-                          href: ../fin-ops-core/dev-itpro/data-entities/security-data-entities.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/security-data-entities.md?context=/dynamics365/context/human-resources
                         - name: 使用第三方服務測試公用程式
-                          href: ../fin-ops-core/dev-itpro/data-entities/third-party-service-test.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/data-entities/third-party-service-test.md?context=/dynamics365/context/human-resources
                         - name: 建立公開財務維度的唯讀實體
-                          href: ../fin-ops-core/dev-itpro/financial/read-only-entity-financial.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                          href: ../fin-ops-core/dev-itpro/financial/read-only-entity-financial.md?context=/dynamics365/context/human-resources
                     - name: 攜帶您自己的資料庫
-                      href: ../fin-ops-core/dev-itpro/analytics/export-entities-to-your-own-database.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                      href: ../fin-ops-core/dev-itpro/analytics/export-entities-to-your-own-database.md?context=/dynamics365/context/human-resources
                     - name: 將 BYOD 批次工作最佳化
                       href: hr-admin-integration-byod-batch-jobs.md
                     - name: 自動實體存放區重新整理
-                      href: ../fin-ops-core/dev-itpro/analytics/automated-entity-store-refresh.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                      href: ../fin-ops-core/dev-itpro/analytics/automated-entity-store-refresh.md?context=/dynamics365/context/human-resources
                     - name: 資料工作自動化
-                      href: ../fin-ops-core/dev-itpro/data-entities/data-task-automation.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                      href: ../fin-ops-core/dev-itpro/data-entities/data-task-automation.md?context=/dynamics365/context/human-resources
                     - name: 資料驗證檢查清單工作區
-                      href: ../fin-ops-core/dev-itpro/user-interface/data-validation-workspace.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                      href: ../fin-ops-core/dev-itpro/user-interface/data-validation-workspace.md?context=/dynamics365/context/human-resources
                     - name: 資料管理錯誤描述
-                      href: ../fin-ops-core/dev-itpro/data-entities/dm-error-descriptions.md?toc=%2fdynamics365%2fhuman-resources%2ftoc.json
+                      href: ../fin-ops-core/dev-itpro/data-entities/dm-error-descriptions.md?context=/dynamics365/context/human-resources
                     - name: 管理功能
                       href: hr-admin-manage-features.md
                     - name: 設定及管理資料庫記錄
@@ -278,6 +246,8 @@
                   href: hr-admin-go-live-faq.md
                 - name: Human Resources 基礎結構合併常見問題
                   href: hr-infrastructure-merge-faq.md
+                - name: Human Resources 客戶移轉常見問題
+                  href: customer-migration.md
                 - name: 文件資源
                   items:
                     - name: 說明系統
@@ -498,8 +468,6 @@
               href: hr-personnel-positions.md
             - name: 建立工作時間行事曆
               href: hr-personnel-create-working-time-calendar.md
-            - name: 招聘工作應徵者
-              href: hr-personnel-recruit.md
             - name: 人事動作常見問題
               href: hr-personnel-actions-faq.md
             - name: 使用工作流程管理員工資訊
@@ -509,7 +477,7 @@
             - name: 修改職位的報告關係
               href: hr-personnel-modify-reporting-relationships-position.md
             - name: 簡化員工資料輸入
-              href: ../talent/streamlined-employee-entry.md?toc=/dynamics365/human-resources/toc.json
+              href: stream-employee-entry.md
             - name: 輸入工作者資訊
               href: hr-personnel-enter-worker-information.md
             - name: 未雇用的工作者
@@ -534,27 +502,37 @@
               href: hr-personnel-set-up-injury-illness-information.md
             - name: 維護員工傷病資訊
               href: hr-personnel-maintain-employee-injury-illness-information.md
-            - name: 招聘應徵者
+            - name: 招聘
               items:
-                - name: 管理招聘流程
-                  href: ../fin-ops-core/fin-ops/hr/manage-recruiting-process.md
-                - name: 大規模聘用專案
-                  href: ../human-resources/hr-personnel-mass-hire-projects.md
-                - name: 建立大規模聘用專案
-                  href: ../human-resources/hr-personnel-create-mass-hire-project.md
-                - name: 手動輸入申請者和申請資料
-                  href: ../fin-ops-core/fin-ops/hr/tasks/enter-applicant-application-data-manually.md
-                - name: 制定並開放工作申請
-                  href: ../fin-ops-core/fin-ops/hr/tasks/develop-open-job-requisition.md
-                - name: 設定職位
-                  href: ../human-resources/hr-personnel-set-up-positions.md
-                - name: 透過招聘來聘用應徵者
-                  href: ../fin-ops-core/fin-ops/hr/tasks/hire-candidate-through-recruiting.md
-                - name: 透過招聘來聘用現有員工
-                  href: ../fin-ops-core/fin-ops/hr/tasks/hire-existing-employee-through-recruiting.md
-                - name: 識別及部署應徵者選擇工具
-                  href: ../fin-ops-core/fin-ops/hr/tasks/identify-deploy-candidate-selection-tools.md
-        - name: 任務管理
+                - name: 概觀
+                  href: ../human-resources/hr-recruit-overview.md
+                - name: 招聘專案
+                  items:
+                    - name: 管理招聘專案程序
+                      href: ../fin-ops-core/fin-ops/hr/manage-recruiting-process.md
+                    - name: 設定招聘專案
+                      href: hr-personnel-develop-open-job-requisition.md
+                    - name: 手動輸入申請者和申請資料
+                      href: ../fin-ops-core/fin-ops/hr/tasks/enter-applicant-application-data-manually.md
+                    - name: 制定並開放工作申請
+                      href: ../fin-ops-core/fin-ops/hr/tasks/develop-open-job-requisition.md
+                    - name: 設定職位
+                      href: ../human-resources/hr-personnel-set-up-positions.md
+                    - name: 透過招聘來聘用應徵者
+                      href: ../fin-ops-core/fin-ops/hr/tasks/hire-candidate-through-recruiting.md
+                    - name: 透過招聘來聘用現有員工
+                      href: ../fin-ops-core/fin-ops/hr/tasks/hire-existing-employee-through-recruiting.md
+                    - name: 識別及部署應徵者選擇工具
+                      href: ../fin-ops-core/fin-ops/hr/tasks/identify-deploy-candidate-selection-tools.md
+                    - name: 大規模聘用專案
+                      href: ../human-resources/hr-personnel-mass-hire-projects.md
+                    - name: 建立大規模聘用專案
+                      href: ../human-resources/hr-personnel-create-mass-hire-project.md
+                - name: 招聘請求 (合併基礎結構)
+                  items:
+                    - name: 招聘工作應徵者
+                      href: hr-personnel-recruit.md
+        - name: 工作管理
           href: hr-task-mgmt.md
         - name: 休假與請假
           items:
@@ -626,8 +604,12 @@
               items:
                 - name: 依公司設定福利管理參數
                   href: hr-benefits-setup-parameters-per-company.md
-                - name: 為所有公司設定福利管理和員工自助服務參數
+                - name: 為所有公司設定權益管理和員工自助服務參數
                   href: hr-benefits-setup-parameters.md
+                - name: 為生活事件設定管理員權利
+                  href: admin-life-events.md
+                - name: 為權益設定電子郵件通知
+                  href: hr-email-notifications.md
                 - name: 設定資格規則和選項
                   href: hr-benefits-setup-eligibility-rules.md
                 - name: 設定個人連絡人資格選項
@@ -660,15 +642,19 @@
                   href: hr-benefits-setup-employment-types.md
                 - name: 設定員工自助服務
                   href: hr-benefits-setup-employee-self-service.md
-                - name: 建立福利計劃
+                - name: 建立權益計劃
                   items:
-                    - name: 設定福利計畫
+                    - name: 設定權益計劃
                       href: hr-benefits-plans-setup.md
+                    - name: 建立背景工作角色權益計劃
+                      href: hr-benefits-plans-worker.md
+                    - name: 設定未來生活事件
+                      href: hr-benefits-plans-future-life-events.md
                     - name: 設定彈性點數計劃
                       href: hr-benefits-plans-flex-credit-programs.md
-                - name: 處理福利計劃
+                - name: 處理權益計劃
                   items:
-                    - name: 處理納入資格
+                    - name: 處理登記資格
                       href: hr-benefits-process-enrollment-eligibility.md
                     - name: 處理人生大事
                       href: hr-benefits-process-life-events.md
@@ -846,6 +832,8 @@
               href: hr-admin-integration-common-data-service-virtual-entities.md
             - name: 設定 Finance 的整合
               href: hr-admin-integration-finance.md
+            - name: 建立從 Human resources 到另一個環境的連結
+              href: configure-links.md
             - name: 設定 Dayforce 的整合
               href: hr-admin-integration-dayforce.md
             - name: 建立定期資料匯出應用程式
@@ -872,6 +860,10 @@
               href: hr-developer-api-authentication.md
             - name: 實體
               items:
+                - name: 職務詳細資料
+                  href: hr-admin-integration-api-job-detail.md
+                - name: 雇用類型選項
+                  href: hr-admin-integration-payroll-api-hcmemploymenttype.md
                 - name: MyLeaveRequests
                   items:
                     - name: MyLeaveRequests 概觀
@@ -1016,9 +1008,9 @@
                   href: hr-admin-integration-payroll-api-award-type.md
                 - name: 流程類型
                   href: hr-admin-integration-payroll-api-process-type.md
-                - name: 福利計劃類型範圍
+                - name: 權益計劃類型範圍
                   href: hr-admin-integration-payroll-api-benefit-plan-type-cover.md
-                - name: 福利員工計劃狀態
+                - name: 權益員工計劃狀態
                   href: hr-admin-integration-payroll-api-benefit-employee-plan-status.md
     - name: 財務和營運應用程式開發與管理
       href: ../fin-ops-core/dev-itpro/index.md

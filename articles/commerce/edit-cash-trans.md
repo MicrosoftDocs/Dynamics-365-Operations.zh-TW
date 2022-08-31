@@ -1,32 +1,32 @@
 ---
 title: 編輯和稽核現金自運及現金管理交易
-description: 本主題說明如何在 Microsoft Dynamics 365 Commerce 中編輯和稽核現金自運和現金管理交易。
+description: 本文章描述如何在 Microsoft Dynamics 365 Commerce 中編輯和稽核現金自運和現金管理交易。
 author: josaw1
 ms.date: 11/04/2020
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: v-chgri
-ms.custom: ''
-ms.assetid: ed0f77f7-3609-4330-bebd-ca3134575216
+ms.reviewer: v-chgriffin
 ms.search.region: global
-ms.search.industry: Retail
 ms.author: josaw
 ms.search.validFrom: 2018-11-15
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 85c4bd4c03b6ac09f2226d1767deabde1879f869e4b7c4d45e4d4c2a1d8effb3
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.custom: ''
+ms.assetid: ed0f77f7-3609-4330-bebd-ca3134575216
+ms.search.industry: Retail
+ms.openlocfilehash: 22a0f76b6797e1051af6a7f3069f79c3be832d46
+ms.sourcegitcommit: 87e727005399c82cbb6509f5ce9fb33d18928d30
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452808"
+ms.lasthandoff: 08/12/2022
+ms.locfileid: "9283714"
 ---
 # <a name="edit-and-audit-cash-and-carry-and-cash-management-transactions"></a>編輯和稽核現金自運及現金管理交易
 
 [!include [banner](../includes/banner.md)]
 
-本主題說明如何在 Microsoft Dynamics 365 Commerce 中編輯和稽核現金自運和現金管理交易。
+本文章描述如何在 Microsoft Dynamics 365 Commerce 中編輯和稽核現金自運和現金管理交易。
 
 ## <a name="overview"></a>概觀
 

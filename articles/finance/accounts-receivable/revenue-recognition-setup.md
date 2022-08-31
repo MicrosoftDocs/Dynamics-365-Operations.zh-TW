@@ -1,29 +1,29 @@
 ---
 title: 收入認列設定
-description: 本主題介紹收入認列的設定選項及其含意。
-author: kweekley
-ms.date: 11/24/2021
+description: 本文章描述收入認列的設定選項及其含意。
+author: bking
+ms.date: 04/28/2022
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 ms.search.form: Customer
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: twheeloc
 ms.search.region: Global
-ms.author: kweekley
+ms.author: bking
 ms.search.validFrom: 2018-08-30
 ms.dyn365.ops.version: 8.0.4
-ms.openlocfilehash: e8e29ec1ca5a02db67bb4baf522da96ec23c740f
-ms.sourcegitcommit: ac23a0a1f0cc16409aab629fba97dac281cdfafb
+ms.openlocfilehash: 00acb795b05d01136cc154f697e7c955b0c6b620
+ms.sourcegitcommit: 1909d18a74cef85aad020a6a7473281e451f58c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/29/2021
-ms.locfileid: "8452922"
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "9348402"
 ---
 # <a name="revenue-recognition-setup"></a>收入認列設定
 [!include [banner](../includes/banner.md)]
 
-已增添一個新的 **收入認列** 模組，當中包含所有必要設定的功能表項目。 本主題介紹設定選項及其含意。
+已新增一個新的 **收入認列** 模組，當中包含所有必要設定的功能表項目。 本文章描述設定選項及其含意。
 
 > [!NOTE]
 > 收入認列功能現在會透過功能管理預設啟用。 如果您的組織不使用此功能，您可以在 **功能管理** 工作區中將其關閉。
@@ -100,7 +100,7 @@ ms.locfileid: "8452922"
     - **發生次數** – 金額會在發生次數間平均配置，但如果您選擇 **實際開始日期** 做為認列慣例，則它可以包括一個額外的期間。
     - **會計期間按天** – 金額是根據每個會計期間的實際天數配置。 
 
-    當會計期間按照行事曆月份時，**每月按天** 和 **會計期間按天** 的結果將是相同的。 唯一的例外是當認列慣例設定為 **月底/期間結束**，而銷售訂單明細上的 **合約開始日期** 和 **結束日期** 欄位留空時。
+         - 當會計期間按照行事曆月份時，**每月按天** 和 **會計期間按天** 的結果將是相同的。 唯一的例外是當認列慣例設定為 **月底/期間結束**，而銷售訂單明細上的 **合約開始日期** 和 **結束日期** 欄位留空時。
 
 - **認列慣例** – 認列慣例會決定在發票收益計畫表中設定的日期。
 
@@ -108,7 +108,7 @@ ms.locfileid: "8452922"
     - **當月/期間的第一天** – 第一個附表明細上的日期是合約開始日期 (或發票日期)。 但是，所有後續附表明細都是為當月或會計期間的第一天建立的。
     - **月中拆分** – 第一個附表明細上的日期取決於發票日期。 如果發票是在每月的第一天到第十五天過帳，則使用當月的第一天建立收益計畫表。 如果發票是在第七天以後過帳，則使用下個月的第一天建立收益計畫表。
 
-        如果認列依據設定為 **會計期間按天**，則無法選擇 **月中拆分**。
+        - 如果認列依據設定為 **會計期間按天**，則無法選擇 **月中拆分**。
 
     - **下個月/期間的第一天** – 附表開始的日期是下個月或會計期間的第一天。
     - **月底/期間結束** – 第一個附表明細上的日期是合約開始日期 (或發票日期)。 但是，所有後續附表明細都是為當月或會計期間的最後一天建立的。 

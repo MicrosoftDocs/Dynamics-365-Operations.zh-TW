@@ -1,30 +1,30 @@
 ---
 title: 收入認列重新配置 - 案例 3
-description: 此主題會介紹重新配置案例，其中會將一項新明細新增至現有的已開票銷售訂單。 在合約中新增新項目時，可新增至新的一筆或現有的銷售訂單。
-author: kweekley
+description: 此文章會介紹重新配置案例，其中會將一項新明細新增至現有的已開票銷售訂單。 在合約中新增新項目時，可新增至新的一筆或現有的銷售訂單。
+author: bking
 ms.date: 12/21/2020
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 ms.search.form: Customer
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: twheeloc
 ms.search.region: Global
-ms.author: kweekley
+ms.author: bking
 ms.search.validFrom: 2020-12-21
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: e4e0d89c094bd8dba9ff4560502035fa36ec453454a4e31596db8cfd3517c8e5
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: e76c077aa24813c9b6ac8c72db06b38cedaafd18
+ms.sourcegitcommit: 1909d18a74cef85aad020a6a7473281e451f58c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452733"
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "9348175"
 ---
 # <a name="revenue-recognition-reallocation--scenario-3"></a>收入認列重新配置 - 案例 3
 
 [!include [banner](../includes/banner.md)]
 
-此主題會介紹重新配置案例，其中會將一項新明細新增至現有的已開票銷售訂單。 在合約中新增新項目時，可新增至新的一筆或現有的銷售訂單。 此案例也展示了應收帳款因重新配置而更新時會發生的情況。
+此文章會介紹重新配置案例，其中會將一項新明細新增至現有的已開票銷售訂單。 在合約中新增新項目時，可新增至新的一筆或現有的銷售訂單。 此案例也展示了應收帳款因重新配置而更新時會發生的情況。
 
 針對此案例，在 **總帳參數** 頁面上的 **收入認列** 索引標籤中，**將發票更正過帳到應收帳款** 選項設定為 **是** (**收入認列 \> 設定 \> 總帳參數**)。
 

@@ -1,6 +1,6 @@
 ---
 title: 分散式訂單管理 (DOM)
-description: 本主題描述了 Dynamics 365 Commerce 中的分散式訂單管理 (DOM) 功能。
+description: 本文章描述了 Dynamics 365 Commerce 中的分散式訂單管理 (DOM) 功能。
 author: josaw1
 ms.date: 02/08/2022
 ms.topic: index-page
@@ -15,18 +15,18 @@ ms.search.industry: Retail
 ms.author: josaw
 ms.search.validFrom: 2018-11-15
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: f19fbe2a9f768a91c495a6a4bcb0e475adb867ae
-ms.sourcegitcommit: 8bea5a0c232ac31dcafddfcc0d715c496d8dd445
+ms.openlocfilehash: 26817321753c8e39d61957b4ea2004f20daf1b2f
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "8452958"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8878504"
 ---
 # <a name="distributed-order-management-dom"></a>分散式訂單管理 (DOM)
 
 [!include [banner](includes/banner.md)]
 
-本主題描述了 Microsoft Dynamics 365 Commerce 中的分散式訂單管理 (DOM) 功能。
+本文章描述了 Microsoft Dynamics 365 Commerce 中的分散式訂單管理 (DOM) 功能。
 
 DOM 是一套全通路訂單履行最佳化解決方案，有助於在供應鍊網路中充分發揮訂單履行的效益。 DOM 可幫助您確保產品適時從適當的來源以正確的數量交付給您的客戶。 DOM 還可以幫助您實現利潤最大化、成本最小化並滿足服務等級需求。
 

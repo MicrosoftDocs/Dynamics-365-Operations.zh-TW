@@ -1,28 +1,28 @@
 ---
 title: 現金與銀行管理首頁
 description: 您可以使用現金和銀行管理來維護法律實體的銀行帳戶以及與該些銀行帳戶相關聯的金融工具。
-author: roschlom
+author: angelad116
 ms.date: 10/26/2017
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 ms.search.form: BankTreasurerWorkspace
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: kfend
 ms.custom:
 - "21941"
 - intro-internal
 ms.assetid: d7e22bd8-fd0d-47e1-843f-45ab0193ff8d
 ms.search.region: Global
-ms.author: roschlom
+ms.author: angelading
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: de37cc3df673a672a091ffe90ca543fae77bc9d5
-ms.sourcegitcommit: 62ca651c94e61aaa69cfa59e861f263f89d01c4a
+ms.openlocfilehash: e49c9f514e79552dda2e7a6e10c7d84fa2560c2e
+ms.sourcegitcommit: 0b7a034e644f4d93fe55c7baca5a3f89dbe56898
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2021
-ms.locfileid: "8452925"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "9151961"
 ---
 # <a name="cash-and-bank-management-home-page"></a>現金與銀行管理首頁
 
@@ -50,7 +50,7 @@ ms.locfileid: "8452925"
 -   [進階銀行對帳概觀](advanced-bank-reconciliation-overview.md)
 -   [進階銀行對帳設定過程](configure-advanced-bank-reconciliation.md)
 -   [設定進階銀行對帳匯入過程](set-up-advanced-bank-reconciliation-import-process.md)
--   [使用進階銀行對帳，比對銀行對帳單](reconcile-bank-statements-advanced-bank-reconciliation.md)
+-   [使用進階銀行調節，核對銀行對帳單](reconcile-bank-statements-advanced-bank-reconciliation.md)
 -   [設定銀行對帳比對規則](set-up-bank-reconciliation-matching-rules.md)
 
 
@@ -89,9 +89,9 @@ ms.locfileid: "8452925"
 
 #### <a name="blogs"></a>部落格
 
-您可以在 [Microsoft Dynamics 365 部落格](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise)和 [Microsoft Dynamics 365 Finance and Operations - 財務部落格](https://community.dynamics.com/365/financeandoperations/b/financials)上尋找有關意見、新聞和其他資訊。
+您可以在 [Microsoft Dynamics 365 部落格](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise)和 [Microsoft Dynamics 365 財務和營運 - 財務部落格](https://community.dynamics.com/365/financeandoperations/b/financials)上尋找相關意見、新聞和其他資訊。
 
-[Microsoft Dynamics Operations 合作夥伴社群部落格](https://community.dynamics.com/partner/b/operationspartnercommunityblog)為 Microsoft Dynamics 合作夥伴提供可從中了解 Dynamics 365 中的新功能和趨勢的單一資源。
+[Microsoft Dynamics Operations 合作夥伴社群部落格](https://community.dynamics.com/partner/b/operationspartnercommunityblog)為 Microsoft Dynamics 合作夥伴提供可從中了解 Dynamics 365 的新增功能和趨勢的單一資源。
 
 #### <a name="task-guides"></a>工作指南
 Finance 內有以工作指南提供的額外協助。 要存取工作指南，請按一下任何頁面上的說明按鈕。
@@ -102,3 +102,4 @@ Finance 內有以工作指南提供的額外協助。 要存取工作指南，�
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
+

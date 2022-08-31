@@ -1,30 +1,30 @@
 ---
 title: 收入認列重新配置 - 案例 4
-description: 本主題會介紹重新配置案例，其中會從已部分開票的現有銷售訂單移除一項明細。 無論該明細是從銷售訂單中移除，還是設為取消狀態，本案例都會產生相同的結果。
-author: kweekley
+description: 本文章會介紹重新配置案例，其中會從已部分開票的現有銷售訂單移除一項明細。 無論該明細是從銷售訂單中移除，還是設為取消狀態，本案例都會產生相同的結果。
+author: bking
 ms.date: 12/21/2020
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 ms.search.form: Customer
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: twheeloc
 ms.search.region: Global
-ms.author: kweekley
+ms.author: bking
 ms.search.validFrom: 2020-12-21
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: 9b9aada2c110ea3b7e70157e6edce9647bbfd28fe307654e10f6d38585090563
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: 8ec28460319e7bfabe82261ee4ed7861c4b6eb11
+ms.sourcegitcommit: 1909d18a74cef85aad020a6a7473281e451f58c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452793"
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "9348259"
 ---
 # <a name="revenue-recognition-reallocation--scenario-4"></a>收入認列重新配置 - 案例 4
 
 [!include [banner](../includes/banner.md)]
 
-本主題會介紹重新配置案例，其中會從已部分開票的現有銷售訂單移除一項明細。 無論該明細是從銷售訂單中移除，還是設為取消狀態，本案例都會產生相同的結果。
+本文章會介紹重新配置案例，其中會從已部分開票的現有銷售訂單移除一項明細。 無論該明細是從銷售訂單中移除，還是設為取消狀態，本案例都會產生相同的結果。
 
 針對此案例，在 **總帳參數** 頁面上的 **收入認列** 索引標籤中，**將發票更正過帳到應收帳款** 選項設定為 **否** (**收入認列 \> 設定 \> 總帳參數**)。
 

@@ -1,6 +1,6 @@
 ---
 title: 更改會計或報表貨幣
-description: 本主題說明如何更改會計或報表貨幣，或將報表貨幣添加到分類帳設定中。
+description: 本文章說明如何更改會計或報表貨幣，或將報表貨幣新增至分類帳設定中。
 author: kweekley
 ms.date: 05/05/2021
 ms.topic: index-page
@@ -8,31 +8,31 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: ''
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: kfend
 ms.search.region: Global
 ms.author: kweekley
 ms.search.validFrom: 2021-05-05
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: 1fd641d4f60d8ff9710c89f43777f7fd8f378dbc6c73d773ac103f9d9f68e60e
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: b02432c8e0bdf52c2a588f67a581b78e682b1bf8
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452823"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8904606"
 ---
 # <a name="change-the-accounting-or-reporting-currency"></a>更改會計或報表貨幣
 
 [!include [banner](../includes/banner.md)]
 
-本主題說明如何更改會計或報表貨幣，或將報表貨幣添加到分類帳設定中。
+本文章說明如何更改會計或報表貨幣，或將報表貨幣新增至分類帳設定中。
 
 ## <a name="symptom"></a>徵兆
 
 您想要更改會計或報表貨幣，或將報表貨幣添加到分類帳設定中。 這通常發生在下列情境中：
 
 - 設定法律實體時指定了錯誤的會計或報表貨幣。 您現在想要更改該貨幣。
-- 設定法律實體時指定了報表貨幣，但組織現在想要移除該報表貨幣。
-- 組織正升級或移轉到 Microsoft Dynamics 365 Finance，並且想要更改會計或報表貨幣。
+- 在設定法律實體時已指定報表貨幣，但組織現在想要移除該報表貨幣。
+- 組織正升級或移轉至 Microsoft Dynamics 365 Finance，並且想要更改會計或報表貨幣。
 
 以前未使用雙重貨幣功能的組織希望開始使用它。 此問題通常發生在下列情境中。
 
@@ -73,7 +73,7 @@ ms.locfileid: "8452823"
 10. 在 **選定的實體** 區域中，選擇 **添加範本**。
 11. 選擇要使用的範本。 新法律實體的建議範本包括 **025 - 總帳** 和 **財務**。 我們建議您查看所有其他可用範本，以決定當中是否有任何一個適用於您的要求。
 12. 選擇 **複製到法律實體** 以開始批次處理，這將建立選定的實體並將其複製到目的地法律實體。
-13. 過程完成後，但在任何交易過帳之前，移至分類帳，並更新本主題稍早所述的會計和報表貨幣。
+13. 程序完成後，但在任何交易過帳之前，移至分類帳，並依本文章中稍前所述內容更新會計和報表貨幣。
 
 如果您建立了一個新法律實體以便更改會計或報表貨幣，請驗證期初餘額是否已從舊法律實體的貨幣換算為新貨幣。
 

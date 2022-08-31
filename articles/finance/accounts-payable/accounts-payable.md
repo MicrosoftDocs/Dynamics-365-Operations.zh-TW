@@ -1,6 +1,6 @@
 ---
 title: 應付帳款首頁
-description: 本主題提供應付帳款的概觀。
+description: 本文意提供應付帳款的概觀。
 author: sunfzam
 ms.date: 02/15/2019
 ms.topic: index-page
@@ -8,27 +8,27 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: VendInvoiceWorkspace
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: twheeloc
 ms.custom:
 - "21901"
 - intro-internal
 ms.assetid: 1e4c2ac4-077b-4678-8733-5cec8f6ff659
 ms.search.region: Global
-ms.author: roschlom
+ms.author: twheeloc
 ms.search.validFrom: 2016-05-31
 ms.dyn365.ops.version: AX 7.0.1
-ms.openlocfilehash: ce768ecaa668f2c69d6753401eaa145b6fddc5ec
-ms.sourcegitcommit: e40a9fac5bac9f57a6dcfe73a1f21856eab9b6a9
+ms.openlocfilehash: 5ed6aacb94de14bdb72185cd528f62e74cd3cc15
+ms.sourcegitcommit: 427fe14824a9d937661ae21b9e9574be2bc9360b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/02/2021
-ms.locfileid: "8452898"
+ms.lasthandoff: 06/09/2022
+ms.locfileid: "8946090"
 ---
 # <a name="accounts-payable-home-page"></a>應付帳款首頁
 
 [!include [banner](../includes/banner.md)]
 
-本主題提供應付帳款的概觀。 
+本文意提供應付帳款的概觀。 
 
 您可以手動輸入廠商發票或透過資料實體以電子方式接收發票。 輸入或接收發票後，您可以使用發票審核日記帳或 **廠商發票** 頁面來審閱和核准發票。 您可以使用發票比對、廠商發票政策和工作流程將審閱流程自動化，使符合特定條件的發票能夠自動獲得核准，並標記剩餘的發票以供授權使用者進行審閱。
 
@@ -126,9 +126,9 @@ ms.locfileid: "8452898"
 
 #### <a name="blogs"></a>部落格
 
-您可以在 [Microsoft Dynamics 365 部落格](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise)和 [Microsoft Dynamics 365 Finance- 財務部落格](https://community.dynamics.com/365/financeandoperations/b/financials)上尋找有關應付帳款和其他解決方案的意見、新聞和其他資訊。
+您可以在 [Microsoft Dynamics 365 部落格](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise)和 [Microsoft Dynamics 365 Finance - 財務部落格](https://community.dynamics.com/365/financeandoperations/b/financials)上尋找有關應付帳款和其他解決方案的意見、新聞和其他資訊。
 
-[Microsoft Dynamics Operations 合作夥伴社群部落格](https://community.dynamics.com/partner/b/operationspartnercommunityblog)為 Microsoft Dynamics 合作夥伴提供可從中了解 Dynamics 365 中的新功能和趨勢的單一資源。
+[Microsoft Dynamics Operations 合作夥伴社群部落格](https://community.dynamics.com/partner/b/operationspartnercommunityblog)為 Microsoft Dynamics 合作夥伴提供可從中了解 Dynamics 365 的新增功能和趨勢的單一資源。
 
 #### <a name="community-blogs"></a>社群部落格
 

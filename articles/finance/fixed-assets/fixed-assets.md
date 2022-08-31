@@ -1,6 +1,6 @@
 ---
 title: 固定資產首頁
-description: 本主題提供有助於您使用 Microsoft Dynamics 365 Finance 固定資產的資源存取權限。
+description: 本文章提供可協助您使用 Microsoft Dynamics 365 Finance 的固定資產之資源存取權限。
 author: moaamer
 ms.date: 08/31/2017
 ms.topic: index-page
@@ -8,7 +8,7 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: AssetWorkspace
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: kfend
 ms.custom:
 - "21481"
 - intro-internal
@@ -17,18 +17,18 @@ ms.search.region: Global
 ms.author: moaamer
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: c1a31273e16275750594ef8d9b99f9a4cd2222ef
-ms.sourcegitcommit: 1707cf45217db6801df260ff60f4648bd9a4bb68
+ms.openlocfilehash: d50af9deb5309a31b886441780fe6b40b8b152ae
+ms.sourcegitcommit: 28a726b3b0726ecac7620b5736f5457bc75a5f84
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/23/2021
-ms.locfileid: "8452904"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "9065328"
 ---
 # <a name="fixed-assets-home-page"></a>固定資產首頁
 
 [!include [banner](../includes/banner.md)]
 
-本主題提供有助於您使用 Microsoft Dynamics 365 Finance 固定資產的資源存取權限。 固定資產是個人或組織擁有的有價值項目。 這些項目包括建築物、車輛、土地和設備。 
+本文章提供可協助您使用 Microsoft Dynamics 365 Finance 的固定資產之資源存取權限。 固定資產是個人或組織擁有的有價值項目。 這些項目包括建築物、車輛、土地和設備。 
 
 您可以設定及輸入固定資產的取得資訊，然後通過折舊及設定資本化閾值確定折舊，以管理資產。 您可以計算對固定資產的調整，也可以處置固定資產。 當您一起使用總帳與固定資產時，您可以檢視所有固定資產的現值。 處理固定資產的方式必須符合國際會計準則和各國家/地區的會計法規。 這些要求可能包括記錄固定資產的取得和處置交易、折舊、存續期間以及升值和沖減等規則。 固定資產功能包含許多這些準則和規則。
 
@@ -44,9 +44,9 @@ ms.locfileid: "8452904"
 
 #### <a name="blogs"></a>部落格
 
-您可以在 [Microsoft Dynamics 365 部落格](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise)和 [Microsoft Dynamics 365 Finance and Operations - 財務部落格](https://community.dynamics.com/365/financeandoperations/b/financials)上尋找有關意見、新聞和其他資訊。
+您可以在 [Microsoft Dynamics 365 部落格](https://community.dynamics.com/b/msftdynamicsblog?c=Enterprise)和 [Microsoft Dynamics 365 財務和營運 - 財務部落格](https://community.dynamics.com/365/financeandoperations/b/financials)上尋找相關意見、新聞和其他資訊。
 
-[Microsoft Dynamics Operations 合作夥伴社群部落格](https://community.dynamics.com/partner/b/operationspartnercommunityblog)為 Microsoft Dynamics 合作夥伴提供可從中了解 Dynamics 365 中的新功能和趨勢的單一資源。
+[Microsoft Dynamics Operations 合作夥伴社群部落格](https://community.dynamics.com/partner/b/operationspartnercommunityblog)為 Microsoft Dynamics 合作夥伴提供可從中了解 Dynamics 365 的新增功能和趨勢的單一資源。
 
 #### <a name="task-guides"></a>工作指南
 其他說明以工作指南形式提供。 要存取工作指南，請按一下任何頁面上的說明按鈕。
@@ -63,3 +63,4 @@ ms.locfileid: "8452904"
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
+

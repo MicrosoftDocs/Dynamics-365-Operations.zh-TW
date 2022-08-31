@@ -1,6 +1,6 @@
 ---
 title: 財務日記帳的預設財務維度
-description: 本主題描述用於定義如何在透過財務日記帳輸入的交易上，設定財務維度值的規則。 同時還包含了使用固定維度之案例的詳細資料。
+description: 本文章描述用於定義如何在透過財務日記帳輸入的交易上，設定財務維度值的規則。 同時還包含了使用固定維度之案例的詳細資料。
 author: kweekley
 ms.date: 09/04/2021
 ms.topic: index-page
@@ -8,23 +8,23 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: LedgerJournalTransDaily, LedgerJournalTransVendInvoice, LedgerJournalTransVendPaym, LedgerJournalTransCustPaym
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: kfend
 ms.search.region: Global
 ms.author: kweekley
 ms.search.validFrom: 2020-12-14
 ms.dyn365.ops.version: 10.0.17
-ms.openlocfilehash: 327bc27f068e1f9eefacc6b5defa27044cb1a77e
-ms.sourcegitcommit: d420b96d37093c26f0e99c548f036eb49a15ec30
+ms.openlocfilehash: 8d0fcf836e22207baae562801fb082d735df0f96
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "8452886"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8907914"
 ---
 # <a name="default-financial-dimensions-on-financial-journals"></a>財務日記帳的預設財務維度
 
 [!include [banner](../includes/banner.md)]
 
-本主題描述用於定義如何在透過財務日記帳 (而不是透過庫存日誌或專案日記帳) 輸入的交易上，設定財務維度值的規則。 同時還包含了使用固定維度之案例的詳細資料。
+本文章描述用於定義如何在透過財務日記帳 (而不是透過庫存日記帳或專案日記帳) 輸入的交易上，設定財務維度值的規則。 同時還包含了使用固定維度之案例的詳細資料。
 
 ## <a name="symptom"></a>徵兆
 

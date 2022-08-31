@@ -1,6 +1,6 @@
 ---
 title: 在 Office 中開啟財務日記帳範本
-description: 本主題介紹在使用 Microsoft Excel 範本建立自訂財務日記帳時可能出現的問題。
+description: 本文章描述了使用 Microsoft Excel 範本建立自訂財務日記帳時可能出現的問題。
 author: kweekley
 ms.date: 05/14/2021
 ms.topic: index-page
@@ -8,23 +8,23 @@ ms.prod: ''
 ms.technology: ''
 ms.search.form: ''
 audience: Application User
-ms.reviewer: roschlom
+ms.reviewer: kfend
 ms.search.region: Global
 ms.author: kweekley
 ms.search.validFrom: 2020-05-14
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: 8c0c8d8e2e9b1978523bea378f4e231d9ebe3d1e8ccdc11ad8578eac16b067cf
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.openlocfilehash: a29ab1cb2980ebfed6c6fa6409538bc802849156
+ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452784"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "8896339"
 ---
 # <a name="open-financial-journal-templates-in-office"></a>在 Office 中開啟財務日記帳範本
 
 [!include [banner](../includes/banner.md)]
 
-本主題介紹在使用 Microsoft Excel 範本建立自訂財務日記帳時可能出現的問題。
+本文章描述了使用 Microsoft Excel 範本建立自訂財務日記帳時可能出現的問題。
 
 ## <a name="symptom"></a>徵兆
 

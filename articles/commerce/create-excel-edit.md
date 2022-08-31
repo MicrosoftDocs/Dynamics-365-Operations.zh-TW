@@ -1,32 +1,32 @@
 ---
 title: 建立 Excel 活頁簿以編輯零售交易
-description: 本主題介紹如何將建立 Excel 活頁簿，以便在 Microsoft Dynamics 365 Commerce 中編輯零售交易。
+description: 本文章描述如何建立 Excel 活頁簿，以便在 Microsoft Dynamics 365 Commerce 中編輯零售交易。
 author: josaw1
 ms.date: 11/04/2020
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
 audience: Application User
-ms.reviewer: v-chgri
-ms.custom: ''
-ms.assetid: ed0f77f7-3609-4330-bebd-ca3134575216
+ms.reviewer: v-chgriffin
 ms.search.region: global
-ms.search.industry: Retail
 ms.author: josaw
 ms.search.validFrom: 2018-11-15
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: bfc3f6898087445e0276994ceeb52c178785bf3604fa163939327e99a0564f64
-ms.sourcegitcommit: 42fe9790ddf0bdad911544deaa82123a396712fb
+ms.custom: ''
+ms.assetid: ed0f77f7-3609-4330-bebd-ca3134575216
+ms.search.industry: Retail
+ms.openlocfilehash: 93e0053c38c9595cab59947e4b65b0b4aa966380
+ms.sourcegitcommit: 87e727005399c82cbb6509f5ce9fb33d18928d30
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "8452775"
+ms.lasthandoff: 08/12/2022
+ms.locfileid: "9270200"
 ---
 # <a name="create-an-excel-workbook-to-edit-retail-transactions"></a>建立 Excel 活頁簿以編輯零售交易
 
 [!include [banner](../includes/banner.md)]
 
-本主題介紹如何將建立 Excel 活頁簿，以便在 Microsoft Dynamics 365 Commerce 中編輯零售交易。
+本文章描述如何建立 Excel 活頁簿，以便在 Microsoft Dynamics 365 Commerce 中編輯零售交易。
 
 ## <a name="overview"></a>概觀
 

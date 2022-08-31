@@ -1,31 +1,31 @@
 ---
 title: 財務和營運應用程式文件
 description: 財務和營運應用程式的文件。
-author: tonyafehr
+author: josaw1
 ms.date: 04/13/2021
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
-ms.search.form: DefaultDashboard
 audience: Application User
-ms.reviewer: tfehr
-ms.custom: intro-internal
+ms.reviewer: josaw
 ms.search.region: Global
-ms.author: tfehr
+ms.author: josaw
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-ms.openlocfilehash: cf2278cbf47c5fd2937e7da55c8777709ab7d356
-ms.sourcegitcommit: 89655f832e722cefbf796a95db10c25784cc2e8e
+ms.custom: intro-internal
+ms.search.form: DefaultDashboard
+ms.openlocfilehash: 784207d6e7500319e06b8d092e464fb7c5a7180d
+ms.sourcegitcommit: 87e727005399c82cbb6509f5ce9fb33d18928d30
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "8452949"
+ms.lasthandoff: 08/12/2022
+ms.locfileid: "9291694"
 ---
 # <a name="finance-and-operations-application-documentation"></a>財務和營運應用程式文件
 
 [!include [banner](includes/banner.md)]
 
-了解如何使用本主題中的資源，找到適合終端使用者、開發人員和 IT 專業人員的內容，讓財務和營運應用程式可用於您的業務。 
+了解如何使用本文章中的資源，找到適合終端使用者、開發人員和 IT 專業人員的絕佳內容，讓財務和營運應用程式可用於您的業務。 
 
 其中大部分內容也適用於相關產品：Dynamics 365 Commerce 和 Dynamics 365 Human Resources。 
 
@@ -143,3 +143,4 @@ ms.locfileid: "8452949"
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
+
