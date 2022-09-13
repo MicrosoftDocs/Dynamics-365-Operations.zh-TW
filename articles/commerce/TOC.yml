@@ -12,6 +12,8 @@
               items:
                 - name: Commerce 的新增功能或變更首頁
                   href: get-started/whats-new-home-page.md
+                - name: Commerce 10.0.30 (2022 年 11 月)
+                  href: get-started/whats-new-commerce-10-0-30.md
                 - name: Commerce 10.0.29 (2022 年 10 月)
                   href: get-started/whats-new-commerce-10-0-29.md
                 - name: Commerce 10.0.28 (2022 年 7 月)
@@ -702,18 +704,16 @@
                   href: optimal-combination-overlapping-discounts.md
                 - name: 定義通路專屬折扣
                   href: define-channel-specific-discounts.md
-                - name: 防止零售產品套用折扣的選項
-                  href: prevent-discounts.md
                 - name: 折抵方式的折扣
                   href: tender_based_discounts.md
                 - name: 運送折扣
                   href: shipping-discount.md
                 - name: 設定滿額贈促銷
                   href: gift-with-purchase.md
-                - name: 建立優惠券
-                  href: retail-coupons.md
-                - name: 在 POS 中顯示折扣
-                  href: discounts-pos.md
+                - name: 優惠券
+                  href: coupons.md
+                - name: 價格設定
+                  href: price-settings.md
                 - name: 價格報告
                   href: price-report.md
                 - name: 建立通路專屬的貿易合約
@@ -800,6 +800,8 @@
                       href: calculated-inventory-retail-channels.md
                     - name: POS 中的庫存查詢操作
                       href: pos-inventory-lookup-operation.md
+                    - name: 掌握庫存產品清單
+                      href: inventory-aware-product-listing.md
                 - name: 訂購單
                   items:
                     - name: 訂購單概觀

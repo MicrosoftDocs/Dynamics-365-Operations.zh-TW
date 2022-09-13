@@ -3413,29 +3413,31 @@
                       href: warehousing/packing-work.md
                     - name: 設定揀料短缺品項重新配置
                       href: warehousing/tasks/set-up-short-picking-item-reallocation.md
-                    - name: 取消倉儲工作進行例外狀況處理
-                      href: warehousing/cancel-warehouse-work.md
                     - name: 系統導向工作排序
                       href: warehousing/system-directed-work-sequencing.md
-                    - name: 揀料明細群組
+                    - name: 揀料明細分組
                       href: warehousing/pick-line-grouping.md
-                    - name: 倉庫貨位
+                    - name: 倉庫箱位
                       href: warehousing/warehouse-slotting.md
                     - name: 位置指令庫存揀料帳齡
                       href: warehousing/location-directive-inventory-picking-aging.md
                     - name: 錨定
                       href: warehousing/anchoring.md
-                    - name: 出庫分揀
+                    - name: 出站排序
                       href: warehousing/outbound-sorting.md
-                    - name: 播種牆 - 直發分貨
+                    - name: 上架 - 入店
                       href: warehousing/put-to-wall-put-to-store.md
-                    - name: 出庫工作負載視覺效果
+                    - name: 出站工作裝貨視覺效果
                       href: warehousing/outbound-workload-visualization.md
+                    - name: 手動處理銷售和轉移明細揀料例外狀況
+                      href: warehousing/manual-order-line-picking-exception-handling.md
+                    - name: 取消倉儲工作進行例外狀況處理
+                      href: warehousing/cancel-warehouse-work.md
                 - name: 補貨
                   items:
                     - name: 補貨概觀
                       href: warehousing/replenishment.md
-                    - name: 即時補貨
+                    - name: 立即補貨
                       href: warehousing/immediate-replenishment.md
                     - name: 使用提取看板補貨
                       href: warehousing/material-replenishment-withdrawal-kanban.md

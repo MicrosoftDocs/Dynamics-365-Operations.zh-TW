@@ -12,6 +12,8 @@
               items:
                 - name: Finance 的新增功能或變更首頁
                   href: get-started/whats-new-home-page.md
+                - name: Finance 10.0.30 (11 月)
+                  href: get-started/whats-new-changed-10-0-30.md
                 - name: Finance 10.0.29 (10 月)
                   href: get-started/whats-new-changed-10-0-29.md
                 - name: Finance 10.0.28 (8 月)
@@ -188,13 +190,13 @@
                   href: ../fin-ops-core/fin-ops/imp-lifecycle/go-live-faq.md?context=/dynamics365/context/finance
                 - name: 提交服務要求
                   href: ../fin-ops-core/dev-itpro/lifecycle-services/submit-request-dynamics-service-engineering-team.md?context=/dynamics365/context/finance
-                - name: 訂閱、LCS 專案和 Azure AD 租用戶常見問題
+                - name: 訂閱、LCS 專案和 Azure AD 用戶常見問題
                   href: ../fin-ops-core/fin-ops/get-started/subscription-overview.md?context=/dynamics365/context/finance
                 - name: 在資料中心之間移動環境
                   href: ../fin-ops-core/fin-ops/get-started/move-environments-data-center.md?context=/dynamics365/context/finance
                 - name: 在合約類型之間轉移授權
                   href: ../fin-ops-core/fin-ops/get-started/move-licenses-between-agreement-types.md?context=/dynamics365/context/finance
-                - name: 將 LCS 實作專案移至不同的 Azure AD 租用戶
+                - name: 將 LCS 實作專案移至不同的 Azure AD 用戶
                   href: ../fin-ops-core/fin-ops/get-started/move-lcs-implementation-project-tenant.md?context=/dynamics365/context/finance
                 - name: 將 LCS 實作專案從內部部署移到雲端
                   href: ../fin-ops-core/dev-itpro/lifecycle-services/move-on-prem-to-cloud.md?context=/dynamics365/context/finance
@@ -1138,6 +1140,8 @@
                       href: general-ledger/subledger-transfer.md
                     - name: 會計來源瀏覽器
                       href: accounts-payable/accounting-source-explorer.md
+                    - name: 待記帳單據
+                      href: general-ledger/documents-pending-accounting.md
             - name: 報告和查詢
               items:
                 - name: 檢視日記帳分錄及交易
