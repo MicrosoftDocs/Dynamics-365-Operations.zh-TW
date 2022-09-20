@@ -10,6 +10,8 @@
               href: ../fin-ops-core/fin-ops/get-started/whats-new-changed.md?toc=/dynamics365/finance/toc.json
             - name: Human Resources 的新增功能或變更
               items:
+                - name: Human Resources 10.0.30 (合併基礎結構)
+                  href: ./get-started/whats-new-changed-10-0-30.md
                 - name: Human Resources 10.0.29 (合併基礎結構)
                   href: ./get-started/whats-new-changed-10-0-29.md
                 - name: Human Resources 10.0.28 (合併基礎結構)
@@ -476,8 +478,10 @@
               href: hr-personnel-view-address-changes.md
             - name: 修改職位的報告關係
               href: hr-personnel-modify-reporting-relationships-position.md
-            - name: 簡化員工資料輸入
+            - name: 簡化員工輸入
               href: stream-employee-entry.md
+            - name: 個人化標題控制項
+              href: hr-worker-header-control.md
             - name: 輸入工作者資訊
               href: hr-personnel-enter-worker-information.md
             - name: 未雇用的工作者

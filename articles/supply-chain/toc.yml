@@ -12,6 +12,8 @@
               items:
                 - name: Supply Chain Management 首頁的新增功能或變更
                   href: get-started/whats-new-home-page.md
+                - name: Supply Chain Management 10.0.30 (2022 年 11 月)
+                  href: get-started/whats-new-scm-10-0-30.md
                 - name: Supply Chain Management 10.0.29 (2022 年 10 月)
                   href: get-started/whats-new-scm-10-0-29.md
                 - name: Supply Chain Management 10.0.28 (2022 年 8 月)
@@ -1719,6 +1721,28 @@
                   href: inventory/inventory-visibility-api.md
                 - name: Inventory Visibility 提示
                   href: inventory/inventory-visibility-tips.md
+        - name: Sensor Data Intelligence
+          items:
+            - name: Sensor Data Intelligence 首頁
+              href: sensor-data-intelligence/sdi-home-page.md
+            - name: 為系統開啟 Sensor Data Intelligence
+              href: sensor-data-intelligence/sdi-enable-feature.md
+            - name: 在 Azure 上部署 IoT 解決方案
+              href: sensor-data-intelligence/sdi-deploy-iot-solution-on-azure.md
+            - name: Sensor Data Intelligence 參數
+              href: sensor-data-intelligence/sdi-parameters.md
+            - name: 設定模擬感應器進行測試
+              href: sensor-data-intelligence/sdi-set-up-simulated-sensor.md
+            - name: 資產停機時間案例
+              href: sensor-data-intelligence/sdi-scenario-asset-downtime.md
+            - name: 資產維護案例
+              href: sensor-data-intelligence/sdi-scenario-asset-maintenance.md
+            - name: 機器狀態案例
+              href: sensor-data-intelligence/sdi-scenario-equipment-downtime.md
+            - name: 產品品質案例
+              href: sensor-data-intelligence/sdi-scenario-product-quality.md
+            - name: 生產延遲案例
+              href: sensor-data-intelligence/sdi-scenario-production-delays.md
         - name: IoT 智慧
           items:
             - name: IoT 智慧首頁
@@ -1940,7 +1964,7 @@
                 - name: 成本控制
                   href: ../finance/cost-accounting/cost-controlling-mobile-workspace.md?context=/dynamics365/context/supply-chain
                 - name: 費用管理
-                  href: /dynamics365/project-operations/prod-exp/expense-management-mobile-workspace?toc=%2fdynamics365%2fsupply-chain%2ftoc.json
+                  href: /dynamics365/project-operations/prod-exp/expense-management-mobile-workspace?toc=/dynamics365/supply-chain/toc.json
                 - name: 現有庫存
                   href: inventory/inventory-on-hand-mobile-workspace.md?context=/dynamics365/context/supply-chain
                 - name: 發票核准
@@ -1948,11 +1972,11 @@
                 - name: 我的團隊
                   href: ../fin-ops-core/dev-itpro/mobile-apps/manager-self-service-mobile-workspace.md?context=/dynamics365/context/supply-chain
                 - name: 專案行動應用程式概觀
-                  href: /dynamics365/project-operations/prod-pma/project-mobile-application-overview?toc=%2fdynamics365%2fsupply-chain%2ftoc.json
+                  href: /dynamics365/project-operations/prod-pma/project-mobile-application-overview?toc=/dynamics365/supply-chain/toc.json
                 - name: 專案時間項目
-                  href: /dynamics365/project-operations/prod-pma/project-time-entry-mobile-workspace?toc=%2fdynamics365%2fsupply-chain%2ftoc.json
+                  href: /dynamics365/project-operations/prod-pma/project-time-entry-mobile-workspace?toc=/dynamics365/supply-chain/toc.json
                 - name: 專案時間表
-                  href: /dynamics365/project-operations/prod-pma/project-timesheet?toc=%2fdynamics365%2fsupply-chain%2ftoc.json
+                  href: /dynamics365/project-operations/prod-pma/project-timesheet?toc=/dynamics365/supply-chain/toc.json
                 - name: 訂購單核准
                   href: procurement/purchase-order-mobile-workspace.md?context=/dynamics365/context/supply-chain
                 - name: 銷售訂單
@@ -3463,7 +3487,7 @@
                       href: warehousing/small-parcel-shipping.md
                 - name: 裝運合併原則
                   items:
-                    - name: 裝運合併原則
+                    - name: 裝運合併原則概觀
                       href: warehousing/about-shipment-consolidation-policies.md
                     - name: 設定裝運合併原則
                       href: warehousing/configure-shipment-consolidation-policies.md
