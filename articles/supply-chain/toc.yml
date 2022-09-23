@@ -206,8 +206,10 @@
                   href: ../fin-ops-core/fin-ops/get-started/implement-multiple-projects-aad-tenant.md?context=/dynamics365/context/supply-chain
         - name: 疑難排解和常見問題
           href: supply-chain-management-troubleshooting.md
-        - name: 全球化
+        - name: Globalization Studio
           items:
+            - name: Globalization Studio 概觀
+              href: ../finance/localizations/globalization-studio-overview.md?context=/dynamics365/context/supply-chai
             - name: 全球化資源
               href: ../fin-ops-core/dev-itpro/lcs-solutions/country-region.md?context=/dynamics365/context/supply-chain
             - name: 全球化服務
@@ -1631,12 +1633,14 @@
               items:
                 - name: 庫存日誌
                   href: inventory/inventory-journals.md
-                - name: 庫存日誌審核工作流程
+                - name: 庫存日記帳審核工作流程
                   href: inventory/inventory-journal-workflow.md
                 - name: 庫存位置
                   href: inventory/inventory-locations.md
                 - name: 庫存狀態
                   href: inventory/inventory-statuses.md
+                - name: 使用批次處置代碼將批次標記為可用或無法使用
+                  href: inventory/batch-disposition-codes.md
                 - name: 建立新的倉儲配置
                   href: inventory/tasks/create-new-warehouse-layout.md
                 - name: 維護條碼類型

@@ -20,8 +20,6 @@
                   href: get-started/whats-new-platform-updates-10-0-29.md
                 - name: 版本 10.0.28 (2022 年 8 月) 的平台更新
                   href: get-started/whats-new-platform-updates-10-0-28.md
-                - name: 版本 10.0.27 (2022 年 7 月) 的平台更新
-                  href: get-started/whats-new-platform-updates-10-0-27.md
             - name: 已移除或棄用的功能
               items:
                 - name: 已移除或棄用的功能首頁
@@ -510,6 +508,8 @@
                   href: dev-tools/access-instances.md
                 - name: 設定單機式開發環境
                   href: dev-tools/configure-developer-vm.md
+                - name: 保護單機式開發環境安全
+                  href: dev-tools/secure-developer-vm.md
                 - name: 關於開發和組建不允許管理員存取 VM 的常見問題
                   href: sysadmin/VMs-no-admin-access.md
                 - name: 設定可下載的 VHD 以供首次使用
