@@ -18,8 +18,6 @@
                   href: get-started/whats-new-changed-10-0-29.md
                 - name: Finance 10.0.28 (8 月)
                   href: get-started/whats-new-changed-10-0-28.md
-                - name: Finance 10.0.27 (7 月)
-                  href: get-started/whats-new-changed-10-0-27.md
             - name: 已移除或棄用的功能
               items:
                 - name: 已移除或棄用的功能首頁
@@ -1450,8 +1448,10 @@
               href: public-sector/tasks/add-certification-type-vendor-public-sector.md
             - name: 計算加拿大合併銷售稅
               href: public-sector/Calculating-Canadian-Harmonized-sales-tax.md
-        - name: 全球化
+        - name: Globalization Studio
           items:
+            - name: Globalization Studio 概觀
+              href: localizations/globalization-studio-overview.md?context=/dynamics365/context/finance
             - name: 全球化資源
               href: ../fin-ops-core/dev-itpro/lcs-solutions/country-region.md?context=/dynamics365/context/finance
             - name: 全球化服務
@@ -1734,6 +1734,8 @@
                       href: general-ledger/sales-tax-calculation-on-general-journal.md
                     - name: 計算和調整廠商發票中的銷售稅
                       href: general-ledger/tasks/calculate-adjust-sales-tax-vendor-invoice.md
+                    - name: 解決銷售稅差異
+                      href: general-ledger/resolve-sales-tax-differences-purchase-orders-invoices.md
                     - name: 透過一般日記帳調整銷售稅
                       href: general-ledger/adjust-sales-tax-via-general-journals.md
                     - name: 在日記帳上啟用延遲稅金計算
@@ -2514,6 +2516,8 @@
                   href: localizations/emea-cze-hun-year-end.md
                 - name: 線上發票開立系統
                   href: localizations/emea-hun-online-invoicing.md
+                - name: 增值稅申報 (匈牙利)
+                  Href: localizations/emea-hun-vat-declaration-hungary.md
                 - name: 匈牙利的銷售稅報表
                   href: localizations/emea-hun-sales-tax-reports.md
                 - name: 匈牙利 Intrastat

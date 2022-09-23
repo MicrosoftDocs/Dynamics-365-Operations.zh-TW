@@ -18,8 +18,6 @@
                   href: get-started/whats-new-commerce-10-0-29.md
                 - name: Commerce 10.0.28 (2022 年 7 月)
                   href: get-started/whats-new-commerce-10-0-28.md
-                - name: Commerce 10.0.27 (2022 年 7 月)
-                  href: get-started/whats-new-commerce-10-0-27.md
             - name: 已移除或棄用的功能
               items:
                 - name: 已移除或棄用的功能首頁
@@ -1382,12 +1380,14 @@
               href: assess-customer-product-profitability.md
             - name: 分析商店績效
               href: store-performance-information.md
-            - name: 設定最近消費日、消費頻率和消費金額 (RFM) 分析
+            - name: 設定最近消費、頻率和消費金額 (RFM) 分析
               href: set-up-rfm-analysis.md
             - name: 在 Dynamics 365 Commerce 中設定 Microsoft Clarity
               href: set-up-clarity.md
-        - name: 全球化
+        - name: Globalization Studio
           items:
+            - name: Globalization Studio 概觀
+              href: ../finance/localizations/globalization-studio-overview.md?context=/dynamics365/context/commerce
             - name: Commerce 通路的財務整合概觀
               href: localizations/fiscal-integration-for-retail-channel.md
             - name: 建立 Commerce 通路的財務整合
