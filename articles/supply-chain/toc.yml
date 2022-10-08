@@ -1749,23 +1749,13 @@
               href: sensor-data-intelligence/sdi-scenario-production-delays.md
         - name: IoT 智慧
           items:
-            - name: IoT 智慧首頁
+            - name: IoT 智慧現在已被 Sensor Data Intelligence 取代
               href: iot/iot-intelligence-home-page.md
-            - name: 設定 Azure 資源
-              href: iot/iot-azure-setup.md
-            - name: IoT 中樞的訊息結構描述格式
-              href: iot/iot-schema-format.md
-            - name: 設定計量
-              href: iot/iot-metrics-setup.md
-            - name: 情境設定
-              href: iot/iot-scenario-setup.md
-            - name: 監控和管理
-              href: iot/iot-management.md
-        - name: 主規劃
+        - name: 總體規劃
           items:
-            - name: 主規劃首頁
+            - name: 總體規劃首頁
               href: master-planning/master-planning-home-page.md
-            - name: 移轉到規劃最佳化以執行主規劃
+            - name: 移轉到規劃最佳化以執行總體規劃
               href: master-planning/new-master-planning-engine.md
             - name: 規劃最佳化
               items:
@@ -1803,9 +1793,11 @@
                   href: master-planning/planning-optimization/shelf-life.md
                 - name: 產能無限制的排程
                   href: master-planning/planning-optimization/infinite-capacity-planning.md
+                - name: 有限產能規劃及排程
+                  href: master-planning/planning-optimization/finite-capacity.md
                 - name: 依據功能對資源選擇進行排程
                   href: master-planning/planning-optimization/capability-based-scheduling.md
-                - name: 基於優先等級的規劃
+                - name: 基於優先順序的規劃
                   href: master-planning/planning-optimization/priority-based-planning.md
                 - name: 需求驅動的物料需求計劃 (DDMRP)
                   items:
