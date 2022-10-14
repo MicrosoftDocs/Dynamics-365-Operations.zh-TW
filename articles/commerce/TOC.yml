@@ -92,7 +92,7 @@
                   href: get-started/system-requirements.md
                 - name: 內部部署
                   href: ../fin-ops-core/dev-itpro/deployment/on-premises-deployment-landing-page.md?context=/dynamics365/context/commerce
-                - name: 內部部署的系統要求
+                - name: 內部部署的系統需求
                   href: ../fin-ops-core/fin-ops/get-started/system-requirements-on-prem.md?context=/dynamics365/context/commerce
                 - name: 內部部署環境中的零售通路元件安裝步驟
                   href: ../fin-ops-core/dev-itpro/deployment/deploy-retail-onprem.md?context=/dynamics365/context/commerce
@@ -394,6 +394,8 @@
                   items:
                     - name: Store Commerce 應用程式
                       href: dev-itpro/store-commerce.md
+                    - name: 適用於行動平台的 Store Commerce 應用程式
+                      href: dev-itpro/store-commerce-mobile.md
                     - name: 將 Modern POS 移轉至 Store Commerce
                       href: dev-itpro/pos-extension/migrate-mpos-store-commerce.md
                     - name: 裝置管理實作指南
@@ -926,7 +928,7 @@
                   href: create-excel-edit.md
                 - name: 將欄位新增至 Excel 活頁簿以編輯零售交易
                   href: add-fields-excel.md
-            - name: 零售商店交易的少量多次訂單建立
+            - name: 零售商店交易的涓流饋給式訂單建立
               href: trickle-feed.md
             - name: 為零售商店建立、計算及過帳報表
               href: tasks/create-calculate-post-statement-retail-store.md
@@ -1618,9 +1620,9 @@
                   href: ../fin-ops-core/dev-itpro/analytics/install-modern-report-design-templates.md?context=/dynamics365/context/commerce
             - name: 超級使用者管理工具
               items:
-                - name: Power BI 與實體商店整合
+                - name: Power BI 與實體存放區整合
                   href: ../fin-ops-core/dev-itpro/analytics/power-bi-integration-entity-store.md?context=/dynamics365/context/commerce
-                - name: 在實體商店維護之後解決問題
+                - name: 在實體存放區維護之後解決問題
                   href: ../fin-ops-core/dev-itpro/analytics/entity-store-maintenance.md
                 - name: 設定 Power BI 整合
                   href: ../fin-ops-core/dev-itpro/analytics/configure-power-bi-integration.md?context=/dynamics365/context/commerce
@@ -2554,13 +2556,13 @@
                       href: dev-itpro/typescript-proxy-retail-pos.md
                     - name: Commerce Runtime (CRT) 架構和設定
                       href: dev-itpro/commerce-runtime-overview.md
-                    - name: Commerce runtime (CRT) 服務
+                    - name: Commerce Runtime (CRT) 服務
                       href: dev-itpro/crt-services.md
                 - name: 建立新功能
                   items:
                     - name: 建立 Commerce Scale Unit API
                       href: dev-itpro/retail-server-icontroller-extension.md
-                    - name: Commerce runtime (CRT) 擴充性
+                    - name: Commerce Runtime (CRT) 擴充性
                       href: dev-itpro/commerce-runtime-extensibility.md
                     - name: 將延伸模組事件記錄到 Application Insights
                       href: dev-itpro/commerce-application-insights.md
@@ -2572,7 +2574,7 @@
                       href: dev-itpro/extend-commerce-data-exchange.md
                 - name: 擴充現有功能
                   items:
-                    - name: Commerce runtime (CRT) 擴充性和觸發程序
+                    - name: Commerce Runtime (CRT) 擴充性和觸發程序
                       href: dev-itpro/commerce-runtime-extensibility-trigger.md
                     - name: 通路資料庫中預先擴展的資料行
                       href: dev-itpro/extended-columns.md
@@ -3006,7 +3008,7 @@
                   href: troubleshoot/items-without-inventory-checked-out.md
                 - name: 未啟用評分和評論解決方案時，評分精簡器會顯示在搜尋結果和類別頁面上
                   href: troubleshoot/hide-ratings-refiner.md
-                - name: 使用自訂的訂單摘要模組時，訂單摘要小計不包括收費稅
+                - name: 使用自訂的訂單摘要模組時，訂單摘要小計不包含費用的稅金
                   href: troubleshoot/summary-taxes-custom-modules-10.0.27.md
             - name: 客戶管理
               items:
