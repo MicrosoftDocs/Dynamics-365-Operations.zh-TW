@@ -14,6 +14,8 @@
               items:
                 - name: 平台更新的新增功能或變更首頁
                   href: get-started/whats-new-home-page.md
+                - name: 版本 10.0.31 (2023 年 2 月) 的平台更新
+                  href: get-started/whats-new-platform-updates-10-0-31.md
                 - name: 版本 10.0.30 (2022 年 11 月) 的平台更新
                   href: get-started/whats-new-platform-updates-10-0-30.md
                 - name: 版本 10.0.29 (2022 年 10 月) 的平台更新
@@ -182,6 +184,8 @@
                   href: data-entities/configuration-data-templates.md
                 - name: 追蹤實體的變更
                   href: data-entities/entity-change-track.md
+                - name: 允許實體的資料列版本變更追蹤
+                  href: data-entities/rowversion-change-track.md
                 - name: 尋找有關標準資料實體的資訊
                   href: data-entities/data-entities-report.md
                 - name: 具有多個工作表的資料範本
@@ -1228,6 +1232,8 @@
                   href: power-platform/admin-reference.md
                 - name: 啟用 Dataverse 虛擬實體
                   href: power-platform/enable-virtual-entities.md
+                - name: 在 Dataverse 中追蹤虛擬表格的變更
+                  href: power-platform/track-changes-fin-ops-virtual-table.md
                 - name: 在 Power Apps 入口網站使用財務和營運
                   href: power-platform/power-portal-reference.md
                 - name: 財務和營運虛擬實體常見問題
@@ -1618,14 +1624,12 @@
                   href: sysadmin/security-architecture.md
                 - name: 財務和營運應用程式內的加密
                   href: sysadmin/encryption.md
-                - name: 設定工作階段閒置逾時
+                - name: 設定工作階段無活動逾時
                   href: sysadmin/session-idle-timeout.md
                 - name: 現成可用的安全性報告
                   href: sysadmin/security-reports.md
                 - name: 建立新使用者
                   href: sysadmin/tasks/create-new-users.md
-                - name: 使用者工作階段管理
-                  href: sysadmin/user-session-management.md
                 - name: 使用 Azure AD 條件式存取依位置封鎖存取
                   href: /power-platform/admin/restrict-access-online-trusted-ip-rules?toc=/dynamics365/fin-ops-core/dev-itpro/toc.json&bc=/dynamics365/breadcrumb/toc.json
                 - name: 大量匯入使用者

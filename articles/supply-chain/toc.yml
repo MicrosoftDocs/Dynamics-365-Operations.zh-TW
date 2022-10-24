@@ -12,14 +12,12 @@
               items:
                 - name: Supply Chain Management 首頁的新增功能或變更
                   href: get-started/whats-new-home-page.md
+                - name: Supply Chain Management 10.0.31 (2022 年 2 月)
+                  href: get-started/whats-new-scm-10-0-31.md
                 - name: Supply Chain Management 10.0.30 (2022 年 11 月)
                   href: get-started/whats-new-scm-10-0-30.md
                 - name: Supply Chain Management 10.0.29 (2022 年 10 月)
                   href: get-started/whats-new-scm-10-0-29.md
-                - name: Supply Chain Management 10.0.28 (2022 年 8 月)
-                  href: get-started/whats-new-scm-10-0-28.md
-                - name: Supply Chain Management 10.0.27 (2022 年 7 月)
-                  href: get-started/whats-new-scm-10-0-27.md
             - name: 已移除或棄用的功能
               items:
                 - name: 已移除或棄用的功能首頁
@@ -1773,15 +1771,19 @@
                   href: master-planning/planning-optimization/not-used-parameters.md
                 - name: 供應排程
                   href: master-planning/supply-schedule.md
-                - name: 對計畫套用篩選條件
+                - name: 對方案套用篩選條件
                   href: master-planning/planning-optimization/plan-filters.md
-                - name: 具有需求預測的主規劃
+                - name: 具有需求預測的總體規劃
                   href: master-planning/planning-optimization/demand-forecast.md
-                - name: 具有購買交易合約的主規劃
+                - name: 具有供應預測的總體規劃
+                  href: master-planning/planning-optimization/supply-forecast.md
+                - name: 具有採購貿易協議的總體規劃
                   href: master-planning/planning-optimization/purchase-trade-agreement.md
+                - name: 根據報價和報價要求 (RFQ) 進行規劃
+                  href: master-planning/planning-optimization/quotation-planning.md
                 - name: 規劃最佳化所使用的日期與時間參數
                   href: master-planning/planning-optimization/date-time-used.md
-                - name: 安全裕度
+                - name: 安全範圍
                   href: master-planning/planning-optimization/safety-margins.md
                 - name: 延遲承受能力 (負天數)
                   href: master-planning/planning-optimization/delay-tolerance.md
@@ -2321,11 +2323,13 @@
                   href: pim/tasks/create-new-product.md
                 - name: 建立基準產品
                   href: pim/tasks/create-product-master.md
-                - name: 建立預定義的產品變體
+                - name: 建立預先定義的產品變型
                   href: pim/tasks/create-predefined-product-variants.md
+                - name: 在 UI 中顯示翻譯的產品名稱和描述
+                  href: pim/show-translated-product-info.md
                 - name: 管理測量單位
                   href: pim/tasks/manage-unit-measure.md
-                - name: 依產品變體進行的測量單位轉換
+                - name: 依產品變型進行的測量單位轉換
                   href: pim/uom-conversion-per-product-variant.md
                 - name: 為單一公司建立已發行產品
                   href: pim/tasks/create-released-product-single-company.md
@@ -3629,11 +3633,13 @@
                       href: warehousing/warehouse-configuration.md
                     - name: 使用倉庫配置範本設定倉庫
                       href: inventory/warehouse-template.md
-                    - name: 使用工作範本和位置指令控制工作
+                    - name: 使用工作範本和位置指示詞控制工作
                       href: warehousing/control-warehouse-location-directives.md
-                    - name: 使用位置指令
+                    - name: 使用位置指示詞
                       href: warehousing/create-location-directive.md
-                    - name: 設定倉庫交易的產品篩選條件
+                    - name: 含驗收測試的測試位置指示詞
+                      href: warehousing/location-directive-acceptance-tests.md
+                    - name: 設定倉儲交易的產品篩選條件
                       href: warehousing/filters-and-filter-codes.md
                     - name: 位置庫存限制
                       href: warehousing/location-stocking-limits.md

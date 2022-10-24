@@ -888,6 +888,8 @@
               href: async-customer-mode.md
             - name: 將非同步客戶轉換為同步客戶
               href: convert-async-to-sync.md
+            - name: 稽核客戶作業的同步
+              href: audit-async-customer-operations.md
             - name: 非同步客戶建立模式常見問題
               href: async-customer-mode-faq.md
             - name: 客戶服務解決方案
@@ -1296,8 +1298,14 @@
                       href: cookie-consent-module.md
                 - name: 聊天模組
                   items:
-                    - name: Commerce 聊天模組
+                    - name: Commerce 聊天功能概觀
+                      href: commerce-chat-overview.md
+                    - name: 使用 Customer Service 全通路模組的 Commerce 聊天
                       href: commerce-chat-module.md
+                    - name: 使用 Power Virtual Agents 模組的 Commerce 聊天
+                      href: chat-module-pva.md
+                    - name: Commerce 聊天模組主動式聊天參數
+                      href: chat-proactive-chat-parameters.md
             - name: 搜尋
               items:
                 - name: 預設類別登陸頁面和搜尋結果頁面概觀

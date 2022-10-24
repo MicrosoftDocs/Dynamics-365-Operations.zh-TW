@@ -12,6 +12,8 @@
               items:
                 - name: Finance 的新增功能或變更首頁
                   href: get-started/whats-new-home-page.md
+                - name: Finance 10.0.31 (一月)
+                  href: get-started/whats-new-changed-10-0-31.md
                 - name: Finance 10.0.30 (11 月)
                   href: get-started/whats-new-changed-10-0-30.md
                 - name: Finance 10.0.29 (10 月)
@@ -232,6 +234,26 @@
                   href: accounts-payable/accounts-payable-invoice-matching.md
                 - name: 設定應付帳款發票比對驗證
                   href: accounts-payable/tasks/set-up-accounts-payable-invoice-matching-validation.md
+            - name: Invoice Capture 解決方案
+              items:
+                - name: Invoice Capture 概觀
+                  href: accounts-payable/invoice-capture-overview.md
+                - name: Invoice Capture 安裝
+                  href: accounts-payable/install-invoice-capture.md
+                - name: 設定 Invoice Capture
+                  href: accounts-payable/config-invoice-capture.md
+                - name: Invoice Capture 設定群組
+                  href: accounts-payable/invoice-capture-config-group.md
+                - name: Invoice Capture 對應規則
+                  href: accounts-payable/invoice-capture-mapping-rules.md
+                - name: Invoice Capture 工作區
+                  href: accounts-payable/invoice-capture-workspace.md
+                - name: Invoice Capture 進階設定
+                  href: accounts-payable/invoice-capture-advanced-settings.md
+                - name: Invoice Capture 儀表板
+                  href: accounts-payable/invoice-capture-dashboard.md
+                - name: Invoice Capture 收到的檔案儲存體
+                  href: accounts-payable/invoice-capture-rec-files.md
             - name: 廠商發票自動化
               items:
                 - name: 自動化廠商開立發票流程概觀
@@ -3937,9 +3959,9 @@
                   href: ../fin-ops-core/dev-itpro/analytics/install-modern-report-design-templates.md?context=/dynamics365/context/finance
             - name: 超級使用者管理工具
               items:
-                - name: Power BI 與實體商店整合
+                - name: Power BI 與實體存放區整合
                   href: ../fin-ops-core/dev-itpro/analytics/power-bi-integration-entity-store.md?context=/dynamics365/context/finance
-                - name: 在實體商店維護之後解決問題
+                - name: 在實體存放區維護之後解決問題
                   href: ../fin-ops-core/dev-itpro/analytics/entity-store-maintenance.md
                 - name: 設定 Power BI 整合
                   href: ../fin-ops-core/dev-itpro/analytics/configure-power-bi-integration.md?context=/dynamics365/context/finance
