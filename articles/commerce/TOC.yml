@@ -12,6 +12,8 @@
               items:
                 - name: Commerce 的新增功能或變更首頁
                   href: get-started/whats-new-home-page.md
+                - name: Commerce 10.0.31 (2023 年 2 月)
+                  href: get-started/whats-new-commerce-10-0-31.md
                 - name: Commerce 10.0.30 (2022 年 11 月)
                   href: get-started/whats-new-commerce-10-0-30.md
                 - name: Commerce 10.0.29 (2022 年 10 月)
@@ -568,6 +570,8 @@
                       href: call-center-refund-payments.md
                     - name: 信用卡設定、授權和擷取
                       href: ../finance/accounts-receivable/credit-card-authorizations.md?context=/dynamics365/context/commerce
+                    - name: 限制付款權杖使用方式
+                      href: dev-itpro/limit-token-usage.md
                     - name: 設定 POS 的現金面額
                       href: cash-denominations.md
                     - name: 設定信用卡處理
@@ -1236,6 +1240,8 @@
                       href: cart-icon-module.md
                     - name: 結帳模組
                       href: add-checkout-module.md
+                    - name: 結帳模組錯誤參考代碼
+                      href: checkout-module-error-codes.md
                     - name: 付款模組
                       href: payment-module.md
                     - name: 運送地址模組

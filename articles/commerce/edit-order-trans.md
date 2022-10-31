@@ -2,7 +2,7 @@
 title: 編輯和稽核線上訂單以及非同步客戶訂單交易
 description: 本文章描述如何在 Microsoft Dynamics 365 Commerce 中編輯和稽核線上訂單和非同步客戶訂單交易。
 author: josaw1
-ms.date: 11/04/2020
+ms.date: 10/21/2022
 ms.topic: index-page
 ms.prod: ''
 ms.technology: ''
@@ -15,12 +15,12 @@ ms.dyn365.ops.version: ''
 ms.custom: ''
 ms.assetid: ed0f77f7-3609-4330-bebd-ca3134575216
 ms.search.industry: Retail
-ms.openlocfilehash: dac7ffe6d62aaea11f2f5af0476db446b091938b
-ms.sourcegitcommit: 87e727005399c82cbb6509f5ce9fb33d18928d30
+ms.openlocfilehash: dbeeff47446c1617da44f34ae56f333717f577a1
+ms.sourcegitcommit: 18b7a02c497709e8d9c7b943d82f1fcc3dafa4cd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/12/2022
-ms.locfileid: "9287669"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "9712100"
 ---
 # <a name="edit-and-audit-online-order-and-asynchronous-customer-order-transactions"></a>編輯和稽核線上訂單以及非同步客戶訂單交易
 
@@ -34,12 +34,13 @@ ms.locfileid: "9287669"
 
 ## <a name="edit-and-audit-order-transactions"></a>編輯和稽核訂單交易
 
-若要在 Commerce 總部中編輯和稽核訂單交易，請執行下列步驟。
+若要在 Commerce Headquarters 中編輯和稽核訂單交易，請執行下列步驟。
 
-1. 安裝 [Microsoft Dynamics Office 增益集](https://appsource.microsoft.com/product/office/WA104379629?tab=Overview)。
-1. 在 **Retail** 參數頁面 **客戶訂單** 索引標籤的 **訂單** FastTab 上，為 **訂單同步錯誤的保留代碼** 指定一個保留代碼。
-1. 開啟 **存放區財務** 工作區。 **線上訂單同步錯誤** 和 **客戶訂單同步錯誤** 圖標提供預先篩選的零售交易頁面檢視。 每個圖標都會顯示對應訂單類型同步失敗的交易記錄。
-1. 開啟 **線上訂單同步錯誤** 頁面或 **客戶訂單同步錯誤** 頁面。 選取記錄以檢視同步錯誤詳細資料。 **同步狀態** FastTab 提供下列錯誤詳細資料：
+1. 安裝 [Microsoft Dynamics Office Add-in](https://appsource.microsoft.com/product/office/WA104379629?tab=Overview)。
+1. 在 **Commerce 參數** 頁面的 **客戶訂單** 索引標籤的 **訂單** FastTab 上，為 **訂單同步錯誤的保留代碼** 指定一個保留代碼。
+2. 若其他訂單同步處理工作將與您的編輯和稽核時間發生衝突，則暫停該等工作。
+3. 開啟 **存放區財務** 工作區。 **線上訂單同步處理錯誤** 和 **客戶訂單同步處理錯誤** 圖標提供預先篩選的零售交易頁面檢視。 每個圖標都會顯示對應訂單類型同步失敗的交易記錄。
+4. 開啟 **線上訂單同步錯誤** 頁面或 **客戶訂單同步錯誤** 頁面。 選取記錄以檢視同步錯誤詳細資料。 **同步狀態** FastTab 提供下列錯誤詳細資料：
 
     - 擱置中的訂單狀態
     - 訂單錯誤詳細資料
@@ -67,7 +68,15 @@ ms.locfileid: "9287669"
 
 1. 在 Excel 檔案的 **擱置中的訂單狀態** 欄位中，輸入 **編輯中**，然後發佈變更。 如此一來，即可防止在批次模式中執行的 **同步訂單** 作業在處理期間略過此記錄。
 1. 在 Excel 檔案中，修改適當的欄位，然後使用 Dynamics Excel 增益集的發佈功能將資料上傳回 Commerce 總部。 發佈資料之後，這些變更就會反映在系統中。 在發佈期間，不會對使用者所做的變更進行驗證。
-1. 您可以針對標題層級變更選取 **零售交易** 標頭中的 **檢視稽核線索** 來檢視變更的完整稽核線索，也可以在適當交易頁面上的相關區段和記錄中進行檢視。 例如，所有與銷售明細相關的變更會顯示在 **銷售交易** 頁面上，而所有與付款相關的變更則會顯示在 **付款交易** 頁面上。 系統會維護變更的下列稽核詳細資料：
+    > [!NOTE]
+    > 如果找不到需要編輯的欄位，請依循以下步驟在工作表中新增缺少的欄位。
+    >   1. 選取資料連接器中的 **設計**。
+    >   1. 選取要在其中新增欄位的資料表旁邊的鉛筆圖示。
+    >   1. 選取 **可用欄位** 區段中的欄位，然後選取 **新增**。
+    >   1. 視您的需要盡可能新增欄位，然後選取 **更新**。
+    >   1. 更新完成後，您可能需要選取 **重新整理** 來更新值。
+
+3. 您可以針對標題層級變更選取 **零售交易** 標題中的 **檢視稽核線索** 來檢視變更的完整稽核線索，也可以在適當交易頁面上的相關區段和記錄中進行檢視。 例如，所有與銷售明細相關的變更會顯示在 **銷售交易** 頁面上，而所有與付款相關的變更則會顯示在 **付款交易** 頁面上。 系統會維護變更的下列稽核詳細資料：
 
     - 修改日期和時間
     - 欄位

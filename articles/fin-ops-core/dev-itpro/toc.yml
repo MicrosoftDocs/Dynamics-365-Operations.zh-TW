@@ -20,8 +20,6 @@
                   href: get-started/whats-new-platform-updates-10-0-30.md
                 - name: 版本 10.0.29 (2022 年 10 月) 的平台更新
                   href: get-started/whats-new-platform-updates-10-0-29.md
-                - name: 版本 10.0.28 (2022 年 8 月) 的平台更新
-                  href: get-started/whats-new-platform-updates-10-0-28.md
             - name: 已移除或棄用的功能
               items:
                 - name: 已移除或棄用的功能首頁
@@ -1602,13 +1600,17 @@
               href: sysadmin/system-administration-home-page.md
             - name: 新增法律條款和隱私聲明連結
               href: sysadmin/legal-terms-privacy-statement.md
-            - name: 授權代碼和設定鍵報告
+            - name: 授權碼和設定金鑰報告
               href: sysadmin/license-codes-configuration-keys-report.md
             - name: 跨公司資料共享
-              href: sysadmin/cross-company-data-sharing.md
+              href: sysadmin/srs-overview.md
+            - name: 支援資料共用的資料表
+              href: sysadmin/drs-srs-tables.md
+            - name: 開發人員的資料共用
+              href: sysadmin/drs-srs-dev.md
             - name: 維護模式
               href: sysadmin/maintenance-mode.md
-            - name: 預配置的系統帳戶
+            - name: 預先設定的系統帳戶
               href: sysadmin/pre-configured-system-accounts.md
             - name: 將 B2B 使用者匯出到 Azure AD
               href: sysadmin/implement-b2b.md

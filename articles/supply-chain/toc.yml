@@ -12,7 +12,7 @@
               items:
                 - name: Supply Chain Management 首頁的新增功能或變更
                   href: get-started/whats-new-home-page.md
-                - name: Supply Chain Management 10.0.31 (2022 年 2 月)
+                - name: Supply Chain Management 10.0.31 (2023 年 2 月)
                   href: get-started/whats-new-scm-10-0-31.md
                 - name: Supply Chain Management 10.0.30 (2022 年 11 月)
                   href: get-started/whats-new-scm-10-0-30.md
@@ -3243,6 +3243,8 @@
               href: transportation/tasks/associate-fuel-index-carrier-accessorial-charge.md
             - name: USMCA 原產地認證
               href: transportation/usmca-certification-of-origin.md
+            - name: 商業發票
+              href: transportation/commercial-invoice.md
             - name: 建立提單
               href: transportation/create-bill-of-lading.md
             - name: 規劃貨運途程
@@ -3433,8 +3435,14 @@
                       href: warehousing/pack-materials-packing-material-fees.md
                     - name: 用於裝運的包裝貨櫃
                       href: warehousing/packing-containers.md
+                    - name: 列印貨櫃標籤
+                      href: warehousing/print-container-labels.md
                     - name: 包裝出境貨櫃和處理裝運的包裝工作
                       href: warehousing/packing-work.md
+                    - name: 使用 Warehouse Management 行動應用程式裝箱貨櫃
+                      href: warehousing/warehouse-app-packing-containers.md
+                    - name: 範例情境 – 使用 Warehouse Management 行動應用程式裝箱貨櫃
+                      href: warehousing/warehouse-app-pack-containers-scenario.md
                     - name: 設定揀料短缺品項重新配置
                       href: warehousing/tasks/set-up-short-picking-item-reallocation.md
                     - name: 系統導向工作排序
@@ -3687,20 +3695,26 @@
                       href: warehousing/tasks/set-up-dispositions-codes.md
                     - name: 測量單位和庫存原則
                       href: warehousing/unit-measure-stocking-policies.md
-                    - name: 倉庫 Power BI 內容
+                    - name: 倉儲 Power BI 內容
                       href: ../fin-ops-core/dev-itpro/analytics/warehouse-power-bi-content.md?toc=/fin-and-ops/toc.json
                     - name: 未完結工作清單上的系統群組
                       href: warehousing/system-group-on-open-work-list.md
-                    - name: 牌照標籤的文件路線規劃配置
+                    - name: 文件路由標籤配置
                       href: warehousing/document-routing-layout-for-license-plates.md
                     - name: GS1 條碼和 QR 代碼
                       href: warehousing/gs1-barcodes.md
-                    - name: 設定轉移單的倉庫
+                    - name: 設定轉運單的倉儲
                       href: warehousing/transfer-orders-warehouse.md
                 - name: 升級和移轉
                   items:
                     - name: 將倉儲管理流程從 Microsoft Dynamics AX 2012 升級至財務和營運
                       href: warehousing/upgrade-migration-warehouse-management-processes.md
+            - name: 倉儲遙測
+              items:
+                - name: 啟用使用 Application Insights 的倉儲遙測
+                  href: warehousing/application-insights-warehousing.md
+                - name: 監視行動裝置使用方式和效能
+                  href: warehousing/application-insights-wma.md
         - name: Supply Chain Management 開發
           items:
             - name: 甘特圖控制開發指南
