@@ -2239,7 +2239,17 @@
                   href: procurement/tasks/create-purchasing-policies.md
                 - name: 設定採購類別階層原則
                   href: procurement/tasks/set-up-policies-procurement-category-hierarchies.md
-            - name: 產品接收和發票開立
+            - name: 供應風險評定
+              items:
+                - name: 供應風險評定概觀
+                  href: procurement/supply-risk-assessment-overview.md
+                - name: 設定供應風險評定
+                  href: procurement/supply-risk-assessment-configuration.md
+                - name: 用於探索和處理供應商風險的可採取動作工作區
+                  href: procurement/supply-risk-assessment-workspace.md
+                - name: Power BI 風險分析和效能排名報告
+                  href: procurement/supply-risk-assessment-reports.md
+            - name: 產品收據和發票開立
               items:
                 - name: 依訂購單接收產品
                   href: procurement/product-receipt-against-purchase-orders.md

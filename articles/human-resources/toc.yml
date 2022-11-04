@@ -4,6 +4,18 @@
       items:
         - name: Dynamics 365 Human Resources 首頁
           href: index.md
+        - name: Human Resources 基礎結構合併
+          items:
+            - name: Human Resources 基礎結構合併概觀
+              href: hr-infrastructure-merge.md
+            - name: Human Resources 基礎結構客戶移轉
+              href: hr-cust-migration.md
+            - name: Human Resources 基礎結構合併常見問題
+              href: hr-infrastructure-merge-faq.md
+            - name: Human Resources 客戶移轉常見問題
+              href: customer-migration.md
+            - name: Human Resources 基礎結構合併已知問題
+              href: hr-migration-issues.md
         - name: 新增功能或變更
           items:
             - name: 財務和營運應用程式的新增功能或變更
@@ -242,10 +254,6 @@
                   href: hr-admin-go-live-prepare.md
                 - name: 上線常見問題
                   href: hr-admin-go-live-faq.md
-                - name: Human Resources 基礎結構合併常見問題
-                  href: hr-infrastructure-merge-faq.md
-                - name: Human Resources 客戶移轉常見問題
-                  href: customer-migration.md
                 - name: 文件資源
                   items:
                     - name: 說明系統
