@@ -688,24 +688,18 @@
               href: accounts-receivable/automatic-settlement-prioritization.md
             - name: 核對銀行帳戶
               href: cash-bank-management/reconcile-bank-account.md
-            - name: 進階銀行對帳
+            - name: 進階銀行調節
               items:
-                - name: 進階銀行對帳設定過程
+                - name: 進階銀行調節定過程
                   href: cash-bank-management/configure-advanced-bank-reconciliation.md
-                - name: 設定進階銀行調節匯入過程
-                  href: cash-bank-management/set-up-advanced-bank-reconciliation-import-process.md
                 - name: 使用電子報表設定進階銀行調節匯入過程
                   href: accounts-payable/import-bai2-er.md
                 - name: 設定銀行調節比對規則
                   href: cash-bank-management/set-up-bank-reconciliation-matching-rules.md
                 - name: 使用進階銀行調節，核對銀行對帳單
                   href: cash-bank-management/reconcile-bank-statements-advanced-bank-reconciliation.md
-                - name: 進階銀行對帳 MT940 匯入 - 複合資料實體升級
-                  href: cash-bank-management/advanced-bank-reconciliation-mt940-data-entity-upgrade-steps.md
-                - name: 進階銀行對帳概觀
+                - name: 進階銀行調節概觀
                   href: cash-bank-management/advanced-bank-reconciliation-overview.md
-                - name: 銀行對帳單檔案匯入的疑難排解
-                  href: cash-bank-management/import-bank-statement-file-failed-incorrect-results.md
                 - name: 更新銀行日記帳複合實體
                   href: cash-bank-management/upgrade-bank-journal-composite-entity.md
         - name: 成本會計

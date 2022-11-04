@@ -256,8 +256,6 @@
                   href: dev-itpro/retail-modern-pos-architecture.md
                 - name: 將 Commerce 店內技術堆疊現代化 (技術白皮書)
                   href: 'https://www.microsoft.com/download/details.aspx?id=103896'
-                - name: Commerce 離線實作和疑難排解
-                  href: dev-itpro/implementation-considerations-offline.md
                 - name: 發佈線上商店目錄
                   href: dev-itpro/retail-online-store-publishing-architecture.md
                 - name: Retail Channel Performance Power BI 內容
@@ -396,12 +394,16 @@
                   items:
                     - name: Store Commerce 應用程式
                       href: dev-itpro/store-commerce.md
+                    - name: Store Commerce 應用程式功能
+                      href: store-commerce-capabilities.md
                     - name: 適用於行動平台的 Store Commerce 應用程式
                       href: dev-itpro/store-commerce-mobile.md
-                    - name: 將 Modern POS 移轉至 Store Commerce
+                    - name: 將 Modern POS 遷移至 Store Commerce
                       href: dev-itpro/pos-extension/migrate-mpos-store-commerce.md
                     - name: 裝置管理實作指南
                       href: implementation-considerations-devices.md
+                    - name: Commerce 離線實作和疑難排解
+                      href: dev-itpro/implementation-considerations-offline.md
                     - name: 在 Store Commerce 和 Cloud POS 之間進行選擇
                       href: MPOS-or-CPOS.md
                     - name: 線上和離線 POS 作業
