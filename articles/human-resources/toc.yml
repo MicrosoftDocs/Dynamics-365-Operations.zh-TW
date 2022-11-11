@@ -536,17 +536,21 @@
                       href: ../human-resources/hr-personnel-mass-hire-projects.md
                     - name: 建立大規模聘用專案
                       href: ../human-resources/hr-personnel-create-mass-hire-project.md
-                - name: 招聘請求 (合併基礎結構)
+                - name: 招聘要求 (合併基礎結構)
                   items:
                     - name: 招聘工作應徵者
                       href: hr-personnel-recruit.md
         - name: 工作管理
-          href: hr-task-mgmt.md
-        - name: 休假與請假
+          items:
+            - name: 概觀
+              href: hr-task-mgmt.md
+            - name: 工作管理升級
+              href: hr-task-update.md
+        - name: 休假和缺勤
           items:
             - name: 概觀
               href: hr-leave-and-absence-overview.md
-            - name: 設定休假與請假參數
+            - name: 設定休假和缺勤參數
               href: hr-leave-and-absence-parameters.md
             - name: 建立工作時間行事曆
               href: hr-leave-and-absence-working-time-calendar.md
@@ -822,7 +826,7 @@
               href: ../fin-ops-core/fin-ops/hr/localizations/noam-usa-comply-ada.md
             - name: 管理工作者配備
               href: ../fin-ops-core/fin-ops/hr/localizations/tasks/manage-worker-accommodations.md
-    - name: 人力資源開發
+    - name: Human Resources 開發
       items:
         - name: 概觀
           href: hr-developer-overview.md
@@ -832,6 +836,10 @@
           href: hr-developer-entities.md
         - name: 自訂欄位
           href: hr-developer-custom-fields.md
+        - name: 開發和自訂
+          items:
+            - name: 性別基礎列舉
+              href: enum-exten.md
         - name: 設定資料整合
           items:
             - name: 選擇資料整合技術

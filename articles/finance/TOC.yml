@@ -450,6 +450,8 @@
                       href: accounts-receivable/sb-billing-schedules.md
                     - name: 複製帳單排程
                       href: accounts-receivable/sb-copy-schedules-items.md
+                    - name: 使用帳單排程拆分客戶
+                      href: accounts-receivable/sb-customer-split.md
                     - name: 帳單排程功能
                       href: accounts-receivable/sb-schedule-billing-features.md
                     - name: 里程碑計費
@@ -1172,6 +1174,8 @@
                   href: general-ledger/close-general-ledger-at-period-end.md
                 - name: 財務期間結算工作區
                   href: general-ledger/financial-period-close-workspace.md
+                - name: 最佳化年末結算
+                  href: general-ledger/optimize-year-end-close.md
                 - name: 年末結算
                   href: general-ledger/year-end-close.md
                 - name: 結算會計年度

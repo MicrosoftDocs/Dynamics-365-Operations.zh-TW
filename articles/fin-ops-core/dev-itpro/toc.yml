@@ -488,7 +488,7 @@
                       href: help/migrate-dynamicsax2012.md
                 - name: 涵蓋產品和說明的語言和地區設定描述項
                   href: help/language-locale.md
-                - name: 對說明進行擴充、自訂和共同作業
+                - name: 對說明進行擴充和共同作業
                   href: help/contributor-guide.md
             - name: 財務和營運應用程式區域服務
               items:
@@ -1624,6 +1624,10 @@
               href: sysadmin/DataMaintenancePortal.md
             - name: 跨法律實體管理網路印表機的存取權
               href: sysadmin/sys-admin-tools-network-printer.md
+            - name: 使用 Application Insights 進行監視和遙測
+              items:
+                - name: 概觀
+                  href: sysadmin/monitoring-and-telemetry-appinsights.md
             - name: 安全性
               items:
                 - name: 角色型安全性
