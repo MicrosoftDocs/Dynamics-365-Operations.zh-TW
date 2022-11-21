@@ -1648,10 +1648,12 @@
                   href: sysadmin/tasks/import-bulk-users.md
                 - name: 設定職責隔離
                   href: sysadmin/tasks/set-up-segregation-duties.md
-                - name: 辨識和解決職責隔離中的衝突
+                - name: 識別和解決職責隔離中的衝突
                   href: sysadmin/tasks/identify-resolve-conflicts-segregation-duties.md
                 - name: 為使用者指派資訊安全角色
                   href: sysadmin/tasks/assign-users-security-roles.md
+                - name: Active Directory 安全性群組
+                  href: sysadmin/active-directory-security-group.md
                 - name: 使用資料管理功能匯入或匯出自訂安全性設定
                   href: sysadmin/import-export-customized-security.md
                 - name: 工作記錄的安全性診斷

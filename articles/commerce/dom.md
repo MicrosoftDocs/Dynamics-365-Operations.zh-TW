@@ -15,12 +15,12 @@ ms.search.industry: Retail
 ms.author: josaw
 ms.search.validFrom: 2018-11-15
 ms.dyn365.ops.version: ''
-ms.openlocfilehash: 26817321753c8e39d61957b4ea2004f20daf1b2f
-ms.sourcegitcommit: 52b7225350daa29b1263d8e29c54ac9e20bcca70
+ms.openlocfilehash: a18441c44869e0e95cf79e35045dd7eacca7e43d
+ms.sourcegitcommit: 4f987aad3ff65fe021057ac9d7d6922fb74f980e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "8878504"
+ms.lasthandoff: 11/14/2022
+ms.locfileid: "9764171"
 ---
 # <a name="distributed-order-management-dom"></a>分散式訂單管理 (DOM)
 
@@ -68,9 +68,9 @@ DOM 使用混合整數規劃 (MIP) 和預測分析模型在批次等級和個別
         > [!NOTE]
         > 提供的簡易求解工具讓零售商無需部署特殊授權即可試用 DOM 功能。 組織不應在實際執行環境中使用簡易求解工具。
         >
-        > 生產求解工具可提高效能 (例如可以在執行中處理的訂單和訂單明細的數量) 和結果的聚合 (因為在某些情況下一批訂單可能不會產生最佳結果)。 一些規則如 **部分訂單** 規則和 **最大位置數** 規則需要生產求解工具。
+        > 生產求解工具可提高效能 (例如可以在執行中處理的訂單和訂單明細的數量) 和結果的聚合 (因為在某些情況下一批訂單可能不會產生最佳結果)。 **部分訂單** 規則需要生產求解工具。
 
-6. 返回 **Retail 和 Commerce \> 分散式訂單管理 \> 設定 \> DOM 參數**。
+6. 返回 **零售與商務 \> 分散式訂單管理 \> 設定 \> DOM 參數**。
 7. 在 **數序** 索引標籤上，將所需的數序指派至各種 DOM 實體。
 
     > [!NOTE]

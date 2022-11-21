@@ -106,9 +106,9 @@
                   href: hr-admin-integration-common-data-service.md
                 - name: Dataverse 資料表
                   href: hr-developer-entities.md
-                - name: 設定 Dataverse 虛擬資料表
+                - name: 設定 Dataverse 虛擬表格
                   href: hr-admin-integration-common-data-service-virtual-entities.md
-                - name: Human Resources 虛擬資料表常見問題
+                - name: Human Resources 虛擬表格常見問題
                   href: hr-admin-virtual-entity-faq.md
                 - name: 設定 Finance 的整合
                   href: hr-admin-integration-finance.md
@@ -302,11 +302,13 @@
                       href: hr-admin-troubleshooting-integration.md
             - name: 設定 Human Resources
               items:
-                - name: 設定 Human Resources 參數
+                - name: 設定人力資源參數
                   href: hr-setup-parameters.md
-                - name: 設定 Human Resources 共用參數
+                - name: 設定人力資源共用參數
                   href: hr-setup-shared-parameters.md
-                - name: 設定 Human Resources 工作流程
+                - name: 依法律實體限制對工作者的存取
+                  href: hr-advanced-security.md
+                - name: 設定人力資源工作流程
                   href: hr-workflow-manage-employee-information.md
                 - name: 了解日期和時間欄位
                   href: hr-setup-date-time-fields.md
@@ -846,11 +848,13 @@
               href: hr-admin-integration-choose-technology.md
             - name: 設定 Dataverse 整合
               href: hr-admin-integration-common-data-service.md
-            - name: 設定 Dataverse 虛擬資料表
+            - name: 設定 Dataverse 虛擬表格
               href: hr-admin-integration-common-data-service-virtual-entities.md
+            - name: 虛擬表格整合的安全性
+              href: hr-security-config.md
             - name: 設定 Finance 的整合
               href: hr-admin-integration-finance.md
-            - name: 建立從 Human resources 到另一個環境的連結
+            - name: 建立從 Human Resources 到另一個環境的連結
               href: configure-links.md
             - name: 設定 Dayforce 的整合
               href: hr-admin-integration-dayforce.md
@@ -866,11 +870,11 @@
                   href: ../fin-ops-core/dev-itpro/office-integration/office-integration-edit-excel.md?toc=%2fdynamics365%2funified-operations%2ftalent%2ftoc.json
                 - name: 對 Office 整合進行疑難排解
                   href: ../fin-ops-core/dev-itpro/office-integration/office-integration-troubleshooting.md?toc=%2fdynamics365%2funified-operations%2ftalent%2ftoc.json
-        - name: 對 Dataverse 虛擬表的開發進行疑難排解
+        - name: 對 Dataverse 虛擬表格的開發進行疑難排解
           items:
-            - name: 優化 Dataverse 虛擬資料表查詢
+            - name: 最佳化 Dataverse 虛擬表格查詢
               href: hr-developer-optimize-virtual-table-queries.md
-            - name: Human Resources 虛擬資料表常見問題
+            - name: Human Resources 虛擬表格常見問題
               href: hr-admin-virtual-entity-faq.md
         - name: 實體 API 參考
           items:

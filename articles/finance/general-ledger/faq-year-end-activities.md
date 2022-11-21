@@ -13,12 +13,12 @@ ms.search.region: Global
 ms.author: moaamer
 ms.search.validFrom: 2020-12-14
 ms.dyn365.ops.version: 10.0.14
-ms.openlocfilehash: 2a75d1e3e68837a437b2369ba369b0063e015b12
-ms.sourcegitcommit: 78cbb125f20a33df38bda0546203b8f837cbcd93
+ms.openlocfilehash: a25f20c320b905a2cdd3091e76e3c5e73f1a845a
+ms.sourcegitcommit: f96e5dec5a808d9819d2a23b8e15ce00aeff475b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/09/2022
-ms.locfileid: "9751923"
+ms.lasthandoff: 11/10/2022
+ms.locfileid: "9752740"
 ---
 # <a name="year-end-activities-faq"></a>年末活動常見問題 
 
@@ -95,7 +95,24 @@ ms.locfileid: "9751923"
 - 模組：總帳
 - 功能名稱：重建財務維度集的效能改進
 
-## <a name="accounts-payable-what-changes-have-been-made-to-support-1099-year-end-reporting-for-2021"></a>應付帳款：為支援 2021 年的年末 1099 表做了哪些變更？
+## <a name="accounts-payable-what-changes-have-been-made-to-support-1099-year-end-reporting-for-2022"></a>應付帳款：為支援 2022 年的年末 1099 報表進行了哪些變更？
+
+#### <a name="update-to-all-1099-forms"></a>更新至所有 1099 表單
+2022 納稅年度的所有 1099 表單進行了以下變更：
+
+  - 2021 年時，1099 表單上的年度為固定。 從 2022 年開始，會依報告填入年度。 
+
+#### <a name="1099-misc"></a>1099-MISC
+2022 納稅年度的表單 1099-MISC 上進行了以下變更：
+
+ - 方塊 13：現在表示外國帳戶稅收合規性法案 (FATCA) 歸檔要求。 
+ - 方塊 14：現在用於報告超額的黃金降落傘付款。 
+ - 方塊 15：現在用於報告非合格遞延補償 (NQDC) 計劃下的付款。 
+ - 方塊 16：現在用於報告州預扣稅。
+ - 方塊 17：現在用於報告付款人的州別編號。
+ - 方塊 18：現在用於報告州所得。 
+
+## <a name="accounts-payable-what-changes-have-been-made-to-support-1099-year-end-reporting-for-2021"></a>應付帳款：為支援 2021 年的年末 1099 報表進行了哪些變更？
 
 在 2021 年，DIV、NEC 和 MISC 表單略有更改，並添加了一些額外的方框。
 

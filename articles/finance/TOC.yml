@@ -430,7 +430,7 @@
                   href: accounts-receivable/rev-rec-bundles.md
                 - name: 收入認列重新配置
                   href: accounts-receivable/rev-rec-reallocation.md
-                - name: 收入認列重新配置 - 案例 1
+                - name: 收入認列重新配置案例 1
                   href: accounts-receivable/rev-rec-reallocation-scenario-1.md
                 - name: 收入認列重新配置案例 2
                   href: accounts-receivable/rev-rec-reallocation-scenario-2.md
@@ -1186,8 +1186,10 @@
                   href: general-ledger/faq-year-end-activities.md
                 - name: 分類帳結算
                   href: general-ledger/ledger-settlements.md
-                - name: 分類帳結算與年末結算的不同
+                - name: 區分分類帳結算與年終結算
                   href: general-ledger/awareness-between-ledger-settlement-year-end-close.md
+                - name: 自動分類帳結算
+                  href: general-ledger/auto-settle.md
                 - name: 總帳的外幣重估
                   href: general-ledger/foreign-currency-revaluation-general-ledger.md
                 - name: 總帳科目餘額

@@ -3395,6 +3395,8 @@
           items:
             - name: 倉儲管理概觀
               href: warehousing/warehouse-management-overview.md
+            - name: 開始設定倉儲管理模組
+              href: warehousing/get-started-with-setting-up-module.md
             - name: 入庫倉儲作業
               items:
                 - name: 訂購單入庫裝載項目的倉儲處理
