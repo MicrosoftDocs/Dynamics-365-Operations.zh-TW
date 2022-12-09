@@ -15,12 +15,12 @@ ms.search.region: Global
 ms.author: angelading
 ms.search.validFrom: 2019-09-17
 ms.dyn365.ops.version: AX 10.0.5
-ms.openlocfilehash: 151991b399a30087c484262706e414e4e294bf7f
-ms.sourcegitcommit: 0d5c07ba91a9ceb2eeb11db032fd28037216789d
+ms.openlocfilehash: 86020d9088d8135c83716128a77090608536a78f
+ms.sourcegitcommit: 81bb8e51951395be3f18f45212e47e6c41656f6a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2022
-ms.locfileid: "9715417"
+ms.lasthandoff: 11/23/2022
+ms.locfileid: "9804010"
 ---
 # <a name="create-checks-that-have-blank-status"></a>建立具有空白狀態的支票
 
@@ -35,7 +35,7 @@ ms.locfileid: "9715417"
 
 要打開 **支票** 頁面，前往 **現金和銀行管理 \> 銀行帳戶 \> 銀行賬戶**，然後在動作窗格中的 **管理付款** 索引標籤上，選擇 **相關資訊** 群組中的 **支票**。 或者，移至 **現金和銀行管理 \> 查詢和報告 \> 支票**。
 
-然後，要建立具有 **空白** 狀態的支票，在動作窗格上選擇 **建立空白支票**。 在系統建立空白支票時，相關的銀行帳戶會暫時停用。 此行為可降低在建立空白支票的同時產生付款的風險。 處理完成後，相關聯的銀行帳戶將重新啟動。
+然後，要建立具有 **空白** 狀態的支票，在動作窗格上選取 **建立空白支票**。 空白支票建立完成後，相關的銀行帳戶會暫時停用。 此行為可降低在建立空白支票的同時產生付款的風險。 處理完成後，相關聯的銀行帳戶將重新啟動。
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]

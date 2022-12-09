@@ -1010,8 +1010,24 @@
                   href: manage-robots-txt-files.md
                 - name: 大量上傳 URL 重新導向
                   href: upload-bulk-redirects.md
-                - name: 在 Commerce 中建立 B2C 租用戶
-                  href: set-up-B2C-tenant.md
+                - name: 在 Commerce 中設定 B2C 租用戶
+                  items:
+                    - name: 設定 B2C 租用戶
+                      href: set-up-B2C-tenant.md
+                    - name: 建立或連結至現有 Azure AD B2C 租用戶
+                      href: create-link-aad-b2c-tenant.md
+                    - name: 建立 B2C 應用程式
+                      href: create-b2c-app.md
+                    - name: 建立使用者流程原則
+                      href: create-user-flow-policies.md
+                    - name: 新增社交識別提供者
+                      href: add-social-identity-providers.md
+                    - name: 使用 Azure AD B2C 資訊更新 Commerce headquarters
+                      href: update-hq-aad-b2c-info.md
+                    - name: 在網站建立器中設定您的 B2C 租用戶
+                      href: config-b2c-tenant-site-builder.md
+                    - name: 其他 B2C 資訊
+                      href: additional-b2c-info.md
                 - name: 建立使用者登入的自訂頁面
                   href: custom-pages-user-logins.md
                 - name: 啟用身分識別記錄與客戶帳戶的自動連結
@@ -1568,8 +1584,10 @@
                   href: localizations/rus-customer-information.md
             - name: 沙烏地阿拉伯
               items:
-                - name: 在沙烏地阿拉伯產生 QR 代碼並列印在收據上
+                - name: 產生沙烏地阿拉伯適用的 QR 代碼並列印在收據上
                   href: localizations/emea-sau-qr-code.md
+                - name: 產生並提交沙烏地阿拉伯適用的簡易版電子發票
+                  href: localizations/emea-sau-simplified-e-invoices.md
             - name: 瑞典
               items:
                 - name: 收銀機功能
@@ -2988,11 +3006,11 @@
                   href: troubleshoot/payment-type-credit-card-error.md
                 - name: 線上訂單的稅額計算錯誤
                   href: troubleshoot/tax-miscalculated-online-order.md
-                - name: 與預設付款服務相關的訂單同步錯誤
+                - name: 非同步訂單同步處理問題
                   href: troubleshoot/synchronization-error.md
             - name: 付款處理
               items:
-                - name: 退貨訂單退款被拒
+                - name: 退貨單退款被拒
                   href: troubleshoot/refund-declined.md
                 - name: 可退款費用根據退貨數量計算錯誤
                   href: troubleshoot/refund-miscalculated-partial-return.md

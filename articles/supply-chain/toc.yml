@@ -1929,6 +1929,8 @@
                   href: master-planning/planning-optimization/ddmrp-planning.md
                 - name: 視覺效果和共用作業執行
                   href: master-planning/planning-optimization/ddmrp-visual-and-collaborative-execution.md
+                - name: DDMRP 常見問題
+                  href: master-planning/planning-optimization/ddmrp-faqs.md
             - name: 已被取代的規劃引擎
               items:
                 - name: 已被取代的規劃引擎概觀
