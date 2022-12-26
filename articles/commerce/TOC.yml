@@ -1422,6 +1422,8 @@
               href: set-up-rfm-analysis.md
             - name: 在 Dynamics 365 Commerce 中設定 Microsoft Clarity
               href: set-up-clarity.md
+            - name: 設定 Operational Insights
+              href: dev-itpro/operational-insights.md
         - name: Globalization Studio
           items:
             - name: Globalization Studio 概觀
@@ -3056,6 +3058,12 @@
               items:
                 - name: 設定電子商務開發環境，以針對第 1 層 Retail Server VM 偵錯
                   href: troubleshoot/set-up-dev-environment-debugging.md
+            - name: 商店財務
+              items:
+                - name: Z 報表的資料對帳問題
+                  href: troubleshoot/z-report-issues.md
+                - name: 由於沒有可用庫存或更新衝突導致的對帳單過帳錯誤
+                  href: troubleshoot/inventory-errors-posting.md
     - name: 財務和營運應用程式開發與管理
       href: ../fin-ops-core/dev-itpro/index.md
     - name: Dynamics 365 Finance
